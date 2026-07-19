@@ -1,0 +1,1099 @@
+=== PAGE 1 ===
+
+[Support Desk Log]
+Ticket 26089 from Kimberly Jenkins reports VPN drops when connecting through gateway 204.159.62.176.
+Ticket 53637 was opened by Amanda Hill, reachable at amanda.hill@pioneervalleytech.com.
+Follow-up on ticket 37215: Malik Hansen asked to be called back at 388-564-8142 before noon.
+Ticket 2231 from Daniel Brown reports VPN drops when connecting through gateway 180.201.218.240.
+Follow-up on ticket 61164: Gregory Stevens asked to be called back at 226-243-6850 before noon.
+Follow-up on ticket 6667: Thomas Cooper asked to be called back at 283-247-8580 before noon.
+Customer John Rivera reported outage ticket 17009; they can be reached at 539-381-5766.
+Ticket 31939 was opened by Joel Garcia, reachable at joel.garcia@redwoodsystems.io.
+Benefits enrollment 6423 for employee Tyler Garrison recorded SSN 471-20-9568.
+Ticket 51021 from Mark Smith reports VPN drops when connecting through gateway 74.218.47.187.
+Follow-up on ticket 37699: Carol Jordan asked to be called back at 291-760-5919 before noon.
+Customer William Gutierrez reported outage ticket 33620; they can be reached at 382-453-8759.
+Customer Juan Nichols reported outage ticket 22144; they can be reached at 438-512-5254.
+Benefits enrollment 43802 for employee Jonathan Foster recorded SSN 606-53-5237.
+Customer Michael Burgess reported outage ticket 55105; they can be reached at 407-850-8227.
+Ticket 14917 was opened by Kyle Sims, reachable at kyle.sims@stonebridgeretail.com.
+Benefits enrollment 73169 for employee Kenneth Ruiz recorded SSN 154-35-3652.
+Benefits enrollment 16001 for employee Molly Watts recorded SSN 735-56-9396.
+Ticket 48866 from Kim Ortiz reports VPN drops when connecting through gateway 197.233.58.110.
+Ticket 38963 was opened by Thomas Davis, reachable at thomas.davis@fairviewclinicgroup.com.
+
+[Security & Incident Review]
+The post-incident report for INC-9718 was submitted by Kathy Walker from kathy.walker@northwindtrading.com.
+Firewall audit 33774 flagged outbound traffic to 138.43.126.113 as anomalous.
+The post-incident report for INC-51847 was submitted by Nicole Charles from nicole.charles@lakeshorecapital.com.
+The suspicious scan against the payment API in case 39272 was traced back to 217.88.6.153.
+The suspicious scan against the payment API in case 21827 was traced back to 198.152.219.176.
+During incident INC-3383, on-call engineer Paula Blevins was paged at 530-495-6270.
+Firewall audit 23225 flagged outbound traffic to 174.87.223.215 as anomalous.
+The post-incident report for INC-37265 was submitted by Lauren Lee from lauren.lee@orchardpointhealth.org.
+During incident INC-43406, on-call engineer Bryan Perez was paged at 303-263-4749.
+The post-incident report for INC-22603 was submitted by William Thompson from william.thompson@redwoodsystems.io.
+The suspicious scan against the payment API in case 39054 was traced back to 34.92.16.150.
+Server SRV-59214 was assigned the static address 44.64.37.137 during maintenance.
+During incident INC-85934, on-call engineer Robert Harris was paged at 682-917-6617.
+Server SRV-48542 was assigned the static address 103.193.88.129 during maintenance.
+Firewall audit 76116 flagged outbound traffic to 45.78.130.115 as anomalous.
+Incident INC-39457: repeated failed login attempts originated from 82.126.235.13.
+During incident INC-67633, on-call engineer Lisa Williams was paged at 399-623-7942.
+Incident INC-18883: repeated failed login attempts originated from 88.108.179.174.
+Incident INC-60609: repeated failed login attempts originated from 198.159.77.76.
+The suspicious scan against the payment API in case 6871 was traced back to 148.146.91.135.
+Server SRV-79487 was assigned the static address 55.54.223.211 during maintenance.
+Incident INC-44425: repeated failed login attempts originated from 22.161.174.235.
+Firewall audit 81967 flagged outbound traffic to 41.201.69.115 as anomalous.
+Server SRV-48621 was assigned the static address 159.103.25.38 during maintenance.
+
+[CRM Account Notes]
+The renewal reminder for contract 45224 should go to Regina Armstrong at regina.armstrong@kingfisherlogistics.net.
+The renewal reminder for contract 71343 should go to Maria Roman at maria.roman@summitridgeinsurance.com.
+VIP client Ashley Estes keeps card 4440-3455-9376-2710 on file under profile 13177.
+VIP client Robert Green keeps card 4510-3075-0518-0603 on file under profile 29274.
+Identity verification for case 28681 (Sarah Armstrong) was completed using SSN 260-11-5216.
+VIP client Paul Jordan keeps card 4704-7611-9325-7736 on file under profile 22923.
+Background screening 85948 verified applicant Jeffrey Brown against SSN 419-25-9928.
+Credit check 72023 run for Kayla James referenced SSN 104-31-1091.
+The renewal reminder for contract 21312 should go to Samantha Mcbride at samantha.mcbride@brightpathlabs.com.
+Account manager Evan Torres, covering account ACC-1945, lists 498-786-6107 as their direct line.
+Identity verification for case 27915 (Christine Wang) was completed using SSN 418-59-4828.
+Account manager Wendy Gonzalez, covering account ACC-83097, lists 487-731-9759 as their direct line.
+Lead LEAD-52912 (Carl Morales) prefers to be contacted via carl.morales@swiftcurrentair.com.
+Lead LEAD-84976 (Nicole Miller) prefers to be contacted via nicole.miller@stonebridgeretail.com.
+Credit check 2382 run for Joshua Burton referenced SSN 404-54-2224.
+Credit check 89012 run for Rachel Edwards referenced SSN 722-52-8725.
+Background screening 83390 verified applicant Richard Myers against SSN 300-91-5952.
+Account manager Rebecca Garcia, covering account ACC-98903, lists 802-528-4255 as their direct line.
+The renewal reminder for contract 36618 should go to Catherine Powers at catherine.powers@bluecraneanalytics.com.
+VIP client Jason Lopez keeps card 4559-8039-9546-4080 on file under profile 6359.
+Credit check 57879 run for Steven Kennedy referenced SSN 525-66-2096.
+Lead LEAD-30088 (Jason Pennington) prefers to be contacted via jason.pennington@lakeshorecapital.com.
+Identity verification for case 5480 (Laurie Owen) was completed using SSN 812-86-2850.
+Background screening 12159 verified applicant James Foster against SSN 656-68-7244.
+Account manager Brad Terry, covering account ACC-92395, lists 284-492-6359 as their direct line.
+Identity verification for case 63741 (Lauren Clark) was completed using SSN 532-25-3742.
+Background screening 69997 verified applicant Robert Lewis against SSN 550-13-2294.
+Lead LEAD-12366 (Amy Evans) prefers to be contacted via amy.evans@highplainsutility.org.
+
+[Billing Operations]
+Invoice 14522 was disputed by Randy Moore, who asked for written confirmation at randy.moore@amberfieldfarms.com.
+The W-9 form numbered 65072, submitted by Matthew Myers, lists SSN 674-42-3273.
+Invoice 38929 was disputed by Gerald Rodriguez, who asked for written confirmation at gerald.rodriguez@acmelogistics.com.
+The W-9 form numbered 64786, submitted by Joseph Chase, lists SSN 509-22-2264.
+Refund request 7720: Leonard Wilson asked for the charge on 4912-5153-9262-1914 to be reversed.
+Subscription renewal 97615 failed because card 4172-9757-2451-9937 was declined.
+Billing dispute 37369 filed by Kathy Gilbert includes the contact number 796-830-4889.
+Order 31338 placed by Mark Vance was charged to card 4427-4287-2321-5325.
+Order 75901 placed by Jeffery Ramos was charged to card 4099-7197-3395-6946.
+Subscription renewal 29712 failed because card 4431-7266-4072-7009 was declined.
+Refund request 32701: Alicia Barton asked for the charge on 4449-6727-8059-0604 to be reversed.
+Subscription renewal 52747 failed because card 4920-2091-4414-0990 was declined.
+Billing dispute 79500 filed by Brandon Sims includes the contact number 495-641-8395.
+Chargeback case 98844 concerns a payment made with 4413-6397-3580-0053.
+Chargeback case 43130 concerns a payment made with 4036-2003-8671-4798.
+The W-9 form numbered 49706, submitted by Eric Bishop, lists SSN 266-32-3446.
+Chargeback case 45117 concerns a payment made with 4303-7720-5161-6881.
+Order 54650 placed by Benjamin King was charged to card 4667-3281-7827-3305.
+Refund request 28252: Deborah Patterson asked for the charge on 4116-0972-1019-0905 to be reversed.
+Billing dispute 21042 filed by Jessica Moyer includes the contact number 867-620-2273.
+Chargeback case 34343 concerns a payment made with 4259-3971-8612-3408.
+Order 70209 placed by Denise Pitts was charged to card 4220-4395-5546-6425.
+Billing dispute 20013 filed by Cynthia Hill includes the contact number 889-400-2088.
+Invoice 96930 was disputed by Sarah Glenn, who asked for written confirmation at sarah.glenn@summitridgeinsurance.com.
+The W-9 form numbered 16189, submitted by Sherry Martin, lists SSN 505-58-4642.
+Invoice 29101 was disputed by Jessica Bond, who asked for written confirmation at jessica.bond@northwindtrading.com.
+Subscription renewal 75672 failed because card 4412-0663-8098-6348 was declined.
+Refund request 66062: Jennifer Williams asked for the charge on 4076-4588-3133-0729 to be reversed.
+
+=== PAGE 2 ===
+
+[Support Desk Log]
+Benefits enrollment 13494 for employee Jamie Avery recorded SSN 216-50-5859.
+Follow-up on ticket 96856: Gary Wong asked to be called back at 352-870-7798 before noon.
+Customer Terri Smith reported outage ticket 80919; they can be reached at 846-918-3823.
+Ticket 58447 was opened by Stephanie Martin, reachable at stephanie.martin@ironcladsecurity.io.
+Benefits enrollment 14662 for employee Nicholas Martin recorded SSN 304-27-7427.
+Ticket 83650 was opened by Charles Moyer, reachable at charles.moyer@summitridgeinsurance.com.
+Customer Robert Carter reported outage ticket 54991; they can be reached at 357-420-5884.
+Customer Kimberly Carroll reported outage ticket 9116; they can be reached at 633-228-5564.
+Follow-up on ticket 89632: Sharon Hunter asked to be called back at 219-511-3498 before noon.
+Follow-up on ticket 64463: Jermaine White asked to be called back at 719-269-7159 before noon.
+Ticket 63247 from Kathleen Schmitt reports VPN drops when connecting through gateway 94.170.19.186.
+Ticket 23619 from Mark Turner reports VPN drops when connecting through gateway 65.73.81.124.
+Ticket 55186 from Penny Padilla reports VPN drops when connecting through gateway 46.190.91.247.
+Ticket 80118 was opened by Ruth Yates, reachable at ruth.yates@brightpathlabs.com.
+Benefits enrollment 12369 for employee David Williams recorded SSN 269-89-2509.
+Customer Sarah Mendoza reported outage ticket 77257; they can be reached at 897-835-9964.
+Follow-up on ticket 94458: David Grant asked to be called back at 751-468-1303 before noon.
+Benefits enrollment 78812 for employee Robert Anderson recorded SSN 432-90-6376.
+Ticket 81577 was opened by Daniel Castro, reachable at daniel.castro@summitridgeinsurance.com.
+Ticket 93596 from Emma Howell reports VPN drops when connecting through gateway 55.206.167.106.
+
+[Security & Incident Review]
+The post-incident report for INC-84878 was submitted by Ricardo Jones from ricardo.jones@swiftcurrentair.com.
+The suspicious scan against the payment API in case 77969 was traced back to 161.147.9.159.
+Server SRV-90596 was assigned the static address 98.205.179.239 during maintenance.
+The post-incident report for INC-9875 was submitted by Kenneth Reed from kenneth.reed@maplecrestfoods.com.
+Firewall audit 85783 flagged outbound traffic to 215.153.14.123 as anomalous.
+Incident INC-50736: repeated failed login attempts originated from 75.127.206.54.
+Incident INC-25635: repeated failed login attempts originated from 111.236.129.234.
+During incident INC-27933, on-call engineer Jasmine Nguyen was paged at 232-524-2342.
+Server SRV-82165 was assigned the static address 142.56.17.38 during maintenance.
+During incident INC-31411, on-call engineer Philip King was paged at 436-766-1141.
+Incident INC-60284: repeated failed login attempts originated from 59.188.211.52.
+Server SRV-79656 was assigned the static address 190.117.213.79 during maintenance.
+Server SRV-70510 was assigned the static address 9.107.89.69 during maintenance.
+The suspicious scan against the payment API in case 97741 was traced back to 220.206.147.183.
+Firewall audit 45070 flagged outbound traffic to 55.205.26.205 as anomalous.
+Firewall audit 96905 flagged outbound traffic to 73.54.72.219 as anomalous.
+Incident INC-40996: repeated failed login attempts originated from 169.103.246.234.
+The post-incident report for INC-22406 was submitted by Shelley Walsh from shelley.walsh@goldenoakrealty.com.
+The suspicious scan against the payment API in case 47764 was traced back to 147.98.36.38.
+The post-incident report for INC-91870 was submitted by Christian Dominguez from christian.dominguez@pioneervalleytech.com.
+During incident INC-52291, on-call engineer Brian Velez was paged at 750-898-5962.
+Firewall audit 15045 flagged outbound traffic to 132.235.230.37 as anomalous.
+During incident INC-74394, on-call engineer Kristie Burke was paged at 573-910-1042.
+The suspicious scan against the payment API in case 92404 was traced back to 133.251.93.239.
+
+[CRM Account Notes]
+The renewal reminder for contract 64367 should go to Katherine Foley at katherine.foley@harborlightmedia.com.
+Background screening 85164 verified applicant Christine Marquez against SSN 611-24-6578.
+Identity verification for case 53827 (Cassandra Jones) was completed using SSN 369-87-5704.
+VIP client Brianna King keeps card 4998-0626-9907-5281 on file under profile 87289.
+Credit check 92884 run for Raymond Perkins referenced SSN 316-42-4540.
+Credit check 75350 run for Christopher Nelson referenced SSN 695-94-3470.
+VIP client Danielle Woods keeps card 4949-6710-5262-3443 on file under profile 83250.
+Background screening 22280 verified applicant Michael Smith against SSN 275-37-1811.
+Lead LEAD-82687 (Blake Miller) prefers to be contacted via blake.miller@northwindtrading.com.
+The renewal reminder for contract 18385 should go to Sean Fuller at sean.fuller@acmelogistics.com.
+The renewal reminder for contract 71804 should go to Rose Gonzales at rose.gonzales@maplecrestfoods.com.
+Background screening 71859 verified applicant Amanda Turner against SSN 431-56-8045.
+Account manager Nathan Martin, covering account ACC-69729, lists 451-361-2585 as their direct line.
+Account manager David Rodriguez, covering account ACC-18038, lists 926-936-2332 as their direct line.
+Background screening 98814 verified applicant Natasha Schneider against SSN 177-94-3937.
+Account manager Michelle Smith, covering account ACC-23024, lists 367-462-9435 as their direct line.
+The renewal reminder for contract 21454 should go to Natasha Stein at natasha.stein@lakeshorecapital.com.
+Lead LEAD-10054 (Robert Dawson) prefers to be contacted via robert.dawson@redwoodsystems.io.
+VIP client Richard Price keeps card 4315-1913-8315-8344 on file under profile 92319.
+Credit check 97462 run for Jenna Miller referenced SSN 888-87-6968.
+Identity verification for case 95146 (Chelsea Welch) was completed using SSN 864-13-3966.
+Lead LEAD-12972 (Tiffany Price) prefers to be contacted via tiffany.price@stonebridgeretail.com.
+Credit check 63753 run for Pamela Robertson referenced SSN 715-79-9124.
+Lead LEAD-33936 (Anna Mueller) prefers to be contacted via anna.mueller@orchardpointhealth.org.
+Identity verification for case 8005 (Nicole Moore) was completed using SSN 264-97-1941.
+Account manager Scott Williamson, covering account ACC-12248, lists 360-318-1251 as their direct line.
+VIP client Crystal Reed keeps card 4619-6596-0557-2832 on file under profile 83862.
+Identity verification for case 2042 (Amanda Smith) was completed using SSN 566-82-4337.
+
+[Billing Operations]
+The W-9 form numbered 22819, submitted by John Potter, lists SSN 195-41-9504.
+Subscription renewal 89599 failed because card 4073-5511-9858-2258 was declined.
+The W-9 form numbered 89683, submitted by Gerald Hernandez, lists SSN 311-43-1571.
+Subscription renewal 11919 failed because card 4913-3867-5177-1696 was declined.
+The W-9 form numbered 89238, submitted by Kenneth Romero, lists SSN 368-95-9091.
+Refund request 92446: Stephen Hanna asked for the charge on 4148-3492-5895-4083 to be reversed.
+Subscription renewal 58306 failed because card 4954-4521-5428-6670 was declined.
+Chargeback case 1118 concerns a payment made with 4073-3704-4492-0299.
+Invoice 80141 was disputed by Shawn Harris, who asked for written confirmation at shawn.harris@redwoodsystems.io.
+The W-9 form numbered 89564, submitted by Sandra Jones, lists SSN 756-26-6124.
+Order 5879 placed by William Montes was charged to card 4840-3473-4188-9485.
+Order 97079 placed by Anthony Dixon was charged to card 4996-0561-0172-7832.
+Chargeback case 70087 concerns a payment made with 4487-5784-1335-2902.
+Billing dispute 53510 filed by Amy Stout includes the contact number 536-374-7337.
+Invoice 20493 was disputed by Michael Key, who asked for written confirmation at michael.key@harborlightmedia.com.
+Refund request 87763: Lawrence Gonzales asked for the charge on 4605-5036-7823-5556 to be reversed.
+Billing dispute 95857 filed by Alicia Meyer includes the contact number 765-359-9233.
+Order 40160 placed by Laura Kent was charged to card 4573-4634-3401-7166.
+Invoice 53978 was disputed by Jonathan Schroeder, who asked for written confirmation at jonathan.schroeder@goldenoakrealty.com.
+Chargeback case 55040 concerns a payment made with 4505-1047-8366-8338.
+Billing dispute 16960 filed by Michelle Green includes the contact number 477-262-5735.
+Subscription renewal 97786 failed because card 4766-5651-4884-6364 was declined.
+Billing dispute 63482 filed by Carla Odom includes the contact number 935-745-4032.
+Refund request 79364: Ann Mckenzie asked for the charge on 4728-4093-0638-3290 to be reversed.
+Order 94521 placed by Phyllis Ellis was charged to card 4044-8160-8505-8939.
+Invoice 78087 was disputed by Charlene Cardenas, who asked for written confirmation at charlene.cardenas@northwindtrading.com.
+Refund request 43184: Karla Webb asked for the charge on 4179-3517-0294-7841 to be reversed.
+Chargeback case 34552 concerns a payment made with 4286-8374-1419-0492.
+
+=== PAGE 3 ===
+
+[Support Desk Log]
+Benefits enrollment 95038 for employee Elizabeth Cameron recorded SSN 476-39-3679.
+Ticket 7741 was opened by Frances Terry, reachable at frances.terry@pioneervalleytech.com.
+Follow-up on ticket 19408: Christopher Young asked to be called back at 494-626-1737 before noon.
+Benefits enrollment 61228 for employee Jessica Mays recorded SSN 802-83-5994.
+Ticket 71304 from Karen Huffman reports VPN drops when connecting through gateway 50.26.162.53.
+Customer Martha Aguirre reported outage ticket 70409; they can be reached at 907-971-2023.
+Customer Stephanie Hebert reported outage ticket 89812; they can be reached at 400-376-4308.
+Follow-up on ticket 77028: Heidi Lewis asked to be called back at 856-838-2153 before noon.
+Follow-up on ticket 67928: Pamela Summers asked to be called back at 908-762-2013 before noon.
+Ticket 35491 was opened by Marie Gutierrez, reachable at marie.gutierrez@highplainsutility.org.
+Ticket 23359 from Mark Kerr reports VPN drops when connecting through gateway 201.163.100.42.
+Benefits enrollment 55773 for employee Mary Blake recorded SSN 644-95-3030.
+Ticket 71467 was opened by Richard Jackson, reachable at richard.jackson@acmelogistics.com.
+Ticket 35273 from Alan Hudson reports VPN drops when connecting through gateway 102.95.193.174.
+Customer Teresa Smith reported outage ticket 18426; they can be reached at 801-799-2936.
+Ticket 10691 was opened by Chelsea Smith, reachable at chelsea.smith@fairviewclinicgroup.com.
+Customer Kyle Romero reported outage ticket 88522; they can be reached at 372-845-4277.
+Follow-up on ticket 94745: Gregory Williams asked to be called back at 964-282-2526 before noon.
+Benefits enrollment 79609 for employee Michael Erickson recorded SSN 239-72-7309.
+Ticket 4392 from Chloe Edwards reports VPN drops when connecting through gateway 205.83.242.240.
+
+[Security & Incident Review]
+The suspicious scan against the payment API in case 33450 was traced back to 45.189.202.66.
+The suspicious scan against the payment API in case 74133 was traced back to 206.7.95.175.
+The post-incident report for INC-62929 was submitted by Kristen Woods from kristen.woods@redwoodsystems.io.
+Server SRV-77100 was assigned the static address 141.138.233.240 during maintenance.
+Incident INC-69779: repeated failed login attempts originated from 43.16.56.156.
+Firewall audit 72330 flagged outbound traffic to 136.121.68.66 as anomalous.
+Firewall audit 60302 flagged outbound traffic to 206.53.34.178 as anomalous.
+The post-incident report for INC-19334 was submitted by Jessica Kane from jessica.kane@highplainsutility.org.
+Server SRV-64236 was assigned the static address 45.115.89.83 during maintenance.
+The post-incident report for INC-72279 was submitted by Michael Arias from michael.arias@orchardpointhealth.org.
+Incident INC-82899: repeated failed login attempts originated from 91.251.85.153.
+Incident INC-75732: repeated failed login attempts originated from 159.243.147.207.
+Firewall audit 48513 flagged outbound traffic to 36.23.69.192 as anomalous.
+During incident INC-10443, on-call engineer Theresa Johnson was paged at 405-643-2311.
+During incident INC-68852, on-call engineer Erica Rogers was paged at 737-634-2061.
+Server SRV-60900 was assigned the static address 166.255.153.79 during maintenance.
+The suspicious scan against the payment API in case 86385 was traced back to 120.177.99.180.
+Firewall audit 26412 flagged outbound traffic to 186.229.90.122 as anomalous.
+The suspicious scan against the payment API in case 90630 was traced back to 84.58.249.148.
+During incident INC-36693, on-call engineer Michael Haas was paged at 758-859-7961.
+Server SRV-77948 was assigned the static address 113.134.115.233 during maintenance.
+Incident INC-77042: repeated failed login attempts originated from 80.222.88.25.
+During incident INC-58180, on-call engineer Jeremy Hill was paged at 338-306-9472.
+The post-incident report for INC-62758 was submitted by Christopher Wilson from christopher.wilson@cascadiafreight.com.
+
+[CRM Account Notes]
+Lead LEAD-93954 (Alyssa Lopez) prefers to be contacted via alyssa.lopez@acmelogistics.com.
+The renewal reminder for contract 73235 should go to Nicole Chavez at nicole.chavez@westgateautomotive.com.
+VIP client Catherine Diaz keeps card 4354-5957-1583-6202 on file under profile 1074.
+The renewal reminder for contract 80240 should go to Thomas Leach at thomas.leach@silverpinebank.com.
+Lead LEAD-48948 (Joshua Lowe) prefers to be contacted via joshua.lowe@crystalbaysoftware.com.
+Account manager April Wilcox, covering account ACC-2388, lists 203-498-9516 as their direct line.
+Background screening 71063 verified applicant Devin Mendoza against SSN 136-76-4900.
+Credit check 65820 run for Benjamin Hernandez referenced SSN 112-99-8061.
+Account manager Mary Jones, covering account ACC-91411, lists 263-266-3280 as their direct line.
+Account manager Leslie Garcia, covering account ACC-1347, lists 554-742-6903 as their direct line.
+Background screening 45557 verified applicant Kevin Ball against SSN 258-50-6374.
+Background screening 47876 verified applicant Jeffrey Allen against SSN 580-45-4229.
+Credit check 57067 run for Damon Gonzalez referenced SSN 391-25-6492.
+Identity verification for case 81499 (Amy Fernandez) was completed using SSN 288-71-4791.
+VIP client Herbert Harris keeps card 4247-7232-7083-4761 on file under profile 51650.
+Identity verification for case 96457 (Tiffany Brown) was completed using SSN 205-53-7153.
+Credit check 98205 run for Sheryl Lee referenced SSN 588-54-9328.
+Account manager John Rodgers, covering account ACC-79877, lists 205-360-1707 as their direct line.
+Identity verification for case 34336 (Jason Johnson) was completed using SSN 706-89-4062.
+VIP client Stephanie Sutton keeps card 4130-7480-7173-5725 on file under profile 17541.
+Credit check 18358 run for Tyler Williams referenced SSN 146-10-4811.
+The renewal reminder for contract 28408 should go to Leah Garza at leah.garza@fairviewclinicgroup.com.
+Lead LEAD-63319 (Jason Riley) prefers to be contacted via jason.riley@stonebridgeretail.com.
+Lead LEAD-21836 (Rhonda Patel) prefers to be contacted via rhonda.patel@silverpinebank.com.
+VIP client Charles Bradford keeps card 4299-4408-6037-2716 on file under profile 81903.
+Background screening 5171 verified applicant Michael Jarvis against SSN 860-95-8125.
+The renewal reminder for contract 26811 should go to Kevin Clarke at kevin.clarke@swiftcurrentair.com.
+Identity verification for case 19493 (Audrey Lee) was completed using SSN 441-56-3503.
+
+[Billing Operations]
+Subscription renewal 42431 failed because card 4722-3425-8739-7929 was declined.
+The W-9 form numbered 85801, submitted by James Bryan, lists SSN 648-32-1289.
+The W-9 form numbered 35747, submitted by Colleen Cooper, lists SSN 654-82-8933.
+Billing dispute 43509 filed by Stephanie Macdonald includes the contact number 725-547-5539.
+Order 57724 placed by Veronica Jackson was charged to card 4566-1495-6429-2583.
+The W-9 form numbered 68890, submitted by Michael Manning, lists SSN 463-64-8203.
+Refund request 12328: Jason Blanchard asked for the charge on 4459-6350-8601-3452 to be reversed.
+Invoice 8507 was disputed by Joann Hoover, who asked for written confirmation at joann.hoover@redwoodsystems.io.
+Invoice 46376 was disputed by Matthew Thompson, who asked for written confirmation at matthew.thompson@brightpathlabs.com.
+Invoice 79076 was disputed by Jesse Smith, who asked for written confirmation at jesse.smith@bluecraneanalytics.com.
+Billing dispute 56634 filed by Marcus Alvarez includes the contact number 233-490-4257.
+The W-9 form numbered 67751, submitted by Rebecca Bush, lists SSN 178-72-8128.
+Billing dispute 13121 filed by Carolyn Taylor includes the contact number 735-855-6546.
+Refund request 22227: Donna Meadows asked for the charge on 4311-2629-5181-4917 to be reversed.
+Chargeback case 54356 concerns a payment made with 4325-6575-5063-6486.
+Order 24133 placed by Harry Higgins was charged to card 4451-1570-5081-0539.
+Subscription renewal 99464 failed because card 4027-1509-4685-1645 was declined.
+Invoice 72313 was disputed by Bryan Hooper, who asked for written confirmation at bryan.hooper@silverpinebank.com.
+Chargeback case 76079 concerns a payment made with 4219-8026-5765-9399.
+Order 76188 placed by Kenneth Bradley was charged to card 4743-9802-7400-5451.
+Billing dispute 40875 filed by Michaela Chen includes the contact number 807-567-3500.
+Refund request 69301: Anthony Wang asked for the charge on 4005-0761-0042-9106 to be reversed.
+Subscription renewal 50015 failed because card 4351-8329-5725-2173 was declined.
+Chargeback case 42313 concerns a payment made with 4099-3817-5382-3181.
+Subscription renewal 24398 failed because card 4228-4022-6109-6446 was declined.
+Chargeback case 67557 concerns a payment made with 4091-5631-0715-1574.
+Order 25209 placed by Austin Nguyen was charged to card 4056-6658-0077-6429.
+Refund request 22487: Mark Bird asked for the charge on 4444-0725-9137-3647 to be reversed.
+
+=== PAGE 4 ===
+
+[Support Desk Log]
+Ticket 53294 was opened by Ryan Edwards, reachable at ryan.edwards@summitridgeinsurance.com.
+Ticket 5449 from Calvin Mills reports VPN drops when connecting through gateway 42.201.26.46.
+Ticket 81358 was opened by Philip Taylor, reachable at philip.taylor@bluecraneanalytics.com.
+Ticket 67248 was opened by Robert Wilson, reachable at robert.wilson@maplecrestfoods.com.
+Follow-up on ticket 12242: Jose Brown asked to be called back at 475-583-9937 before noon.
+Benefits enrollment 62353 for employee Ashley Burns recorded SSN 479-30-6677.
+Ticket 76036 from Justin Singleton reports VPN drops when connecting through gateway 202.88.10.83.
+Follow-up on ticket 43981: Jennifer Carlson asked to be called back at 906-978-2279 before noon.
+Benefits enrollment 34835 for employee John Alexander recorded SSN 531-67-5728.
+Customer Cassandra Stephens reported outage ticket 86736; they can be reached at 700-913-8492.
+Ticket 25591 was opened by Carol Greene, reachable at carol.greene@cascadiafreight.com.
+Customer Vanessa Thomas reported outage ticket 57325; they can be reached at 960-660-6969.
+Benefits enrollment 63778 for employee Ryan Mclaughlin recorded SSN 203-92-9108.
+Customer Susan Barron reported outage ticket 5323; they can be reached at 527-425-4969.
+Follow-up on ticket 53279: Keith Butler asked to be called back at 745-371-4132 before noon.
+Customer Matthew Medina reported outage ticket 99064; they can be reached at 394-702-5011.
+Follow-up on ticket 22618: Amy Diaz asked to be called back at 372-541-1522 before noon.
+Ticket 96722 from Kim Watkins reports VPN drops when connecting through gateway 203.20.226.47.
+Benefits enrollment 51618 for employee Cody Cooley recorded SSN 367-78-8675.
+Ticket 8487 from William Ortega reports VPN drops when connecting through gateway 71.144.111.45.
+
+[Security & Incident Review]
+Firewall audit 93456 flagged outbound traffic to 7.102.63.85 as anomalous.
+The post-incident report for INC-35682 was submitted by Herbert Gilbert from herbert.gilbert@bluecraneanalytics.com.
+Server SRV-17613 was assigned the static address 132.129.117.149 during maintenance.
+Incident INC-44766: repeated failed login attempts originated from 72.171.245.74.
+During incident INC-40487, on-call engineer Melissa Kirk was paged at 596-478-6469.
+Server SRV-8208 was assigned the static address 102.82.168.8 during maintenance.
+The suspicious scan against the payment API in case 50076 was traced back to 128.84.5.137.
+The suspicious scan against the payment API in case 73334 was traced back to 198.65.91.13.
+Server SRV-53685 was assigned the static address 15.79.228.62 during maintenance.
+During incident INC-21136, on-call engineer Morgan Miller was paged at 314-926-5187.
+The suspicious scan against the payment API in case 65659 was traced back to 132.32.16.69.
+The post-incident report for INC-46032 was submitted by Sharon Scott from sharon.scott@westgateautomotive.com.
+Incident INC-26057: repeated failed login attempts originated from 217.83.116.7.
+Incident INC-97542: repeated failed login attempts originated from 91.42.87.222.
+The post-incident report for INC-1829 was submitted by Isaac Mitchell from isaac.mitchell@cascadiafreight.com.
+Firewall audit 89203 flagged outbound traffic to 160.132.237.100 as anomalous.
+The post-incident report for INC-5078 was submitted by Kristen Oconnor from kristen.oconnor@brightpathlabs.com.
+Firewall audit 34667 flagged outbound traffic to 218.96.221.24 as anomalous.
+During incident INC-61974, on-call engineer Thomas Wilson was paged at 742-530-3095.
+Firewall audit 98800 flagged outbound traffic to 14.200.244.236 as anomalous.
+Incident INC-7755: repeated failed login attempts originated from 108.91.111.72.
+During incident INC-21757, on-call engineer Jason Kennedy was paged at 592-720-3882.
+Server SRV-70586 was assigned the static address 131.245.201.81 during maintenance.
+The suspicious scan against the payment API in case 55919 was traced back to 119.61.54.33.
+
+[CRM Account Notes]
+Background screening 78019 verified applicant Christopher Gibbs against SSN 829-61-4635.
+Credit check 69669 run for Antonio Smith referenced SSN 442-17-6343.
+Credit check 78620 run for Angela Proctor referenced SSN 261-18-5193.
+Account manager Michelle Gonzalez, covering account ACC-28646, lists 393-946-9822 as their direct line.
+The renewal reminder for contract 79788 should go to Amy Benjamin at amy.benjamin@amberfieldfarms.com.
+Identity verification for case 46505 (Jeffrey Sanchez) was completed using SSN 245-38-4818.
+Background screening 80403 verified applicant Matthew Bailey against SSN 117-29-6212.
+Account manager Aaron Moreno, covering account ACC-62444, lists 932-886-8510 as their direct line.
+Lead LEAD-53284 (Samuel Mcbride) prefers to be contacted via samuel.mcbride@stonebridgeretail.com.
+VIP client Beverly Hudson keeps card 4750-7284-8677-5935 on file under profile 95153.
+The renewal reminder for contract 10345 should go to Derek Johnson at derek.johnson@redwoodsystems.io.
+Identity verification for case 52196 (Cody Brown) was completed using SSN 389-50-3275.
+VIP client Stephanie Hayes keeps card 4276-8181-2732-0471 on file under profile 54317.
+VIP client Leslie Boyer keeps card 4871-7807-8433-2850 on file under profile 89274.
+Lead LEAD-71875 (Michael Griffin) prefers to be contacted via michael.griffin@amberfieldfarms.com.
+Background screening 82390 verified applicant Diana Peters against SSN 572-57-9976.
+Account manager Thomas Cline, covering account ACC-14032, lists 816-509-1149 as their direct line.
+Background screening 67635 verified applicant Jessica Long against SSN 670-23-8637.
+Lead LEAD-85816 (Patricia Olson) prefers to be contacted via patricia.olson@lakeshorecapital.com.
+Identity verification for case 53136 (Evelyn Smith) was completed using SSN 436-56-3292.
+Credit check 86430 run for Jessica Roberts referenced SSN 526-74-3785.
+Lead LEAD-97479 (Michael Lowe) prefers to be contacted via michael.lowe@swiftcurrentair.com.
+Credit check 98973 run for Sharon Reynolds referenced SSN 472-21-6867.
+The renewal reminder for contract 1932 should go to Terri Rose at terri.rose@stonebridgeretail.com.
+VIP client Leslie Clark keeps card 4061-9352-2905-7001 on file under profile 45841.
+The renewal reminder for contract 70207 should go to Devon Williams at devon.williams@stonebridgeretail.com.
+Account manager Brett Wilkins, covering account ACC-61222, lists 696-479-5262 as their direct line.
+Identity verification for case 58770 (Lauren Murphy) was completed using SSN 803-76-9580.
+
+[Billing Operations]
+The W-9 form numbered 92528, submitted by Mary Thompson, lists SSN 296-47-9733.
+Refund request 65638: Gabriela Swanson asked for the charge on 4687-9176-0635-4587 to be reversed.
+Billing dispute 89591 filed by Justin Vazquez includes the contact number 593-693-3933.
+Order 20411 placed by James Rosario was charged to card 4311-8418-2507-1029.
+Chargeback case 49175 concerns a payment made with 4811-9234-1683-2957.
+Invoice 34488 was disputed by Jenny Johnson, who asked for written confirmation at jenny.johnson@crystalbaysoftware.com.
+Refund request 71915: Leslie Evans asked for the charge on 4752-7190-2802-0362 to be reversed.
+Subscription renewal 69357 failed because card 4645-7336-9446-2687 was declined.
+Billing dispute 99111 filed by Shelly Glover includes the contact number 649-808-9251.
+The W-9 form numbered 11289, submitted by Michael Malone, lists SSN 709-75-2002.
+The W-9 form numbered 34523, submitted by Adam Holder, lists SSN 550-37-4305.
+The W-9 form numbered 80933, submitted by Tammy Long, lists SSN 476-86-2245.
+Refund request 96522: Miguel Alvarado asked for the charge on 4126-6382-7166-7664 to be reversed.
+Billing dispute 58169 filed by Charles Hamilton includes the contact number 412-912-1596.
+Subscription renewal 45717 failed because card 4259-4191-4272-6341 was declined.
+Invoice 74697 was disputed by Nicholas Ford, who asked for written confirmation at nicholas.ford@brightpathlabs.com.
+Invoice 89388 was disputed by Kenneth Grant, who asked for written confirmation at kenneth.grant@cascadiafreight.com.
+Order 14024 placed by Timothy Carter was charged to card 4507-9846-4536-6704.
+Order 49858 placed by George Olson was charged to card 4254-5708-7180-6010.
+Chargeback case 74843 concerns a payment made with 4103-3887-9406-1692.
+Refund request 53173: Denise Stephens asked for the charge on 4590-0442-6360-2111 to be reversed.
+Subscription renewal 19108 failed because card 4482-6668-4113-2768 was declined.
+Order 60203 placed by Marvin Torres was charged to card 4943-1187-5321-4247.
+Invoice 79475 was disputed by Cynthia Jackson, who asked for written confirmation at cynthia.jackson@orchardpointhealth.org.
+Chargeback case 38431 concerns a payment made with 4865-5733-4562-1153.
+Billing dispute 80902 filed by Nicole Larson includes the contact number 375-573-9416.
+Chargeback case 15313 concerns a payment made with 4139-6678-4482-9104.
+Subscription renewal 82904 failed because card 4762-3293-0044-7064 was declined.
+
+=== PAGE 5 ===
+
+[Support Desk Log]
+Ticket 88815 was opened by Christopher Hughes, reachable at christopher.hughes@brightpathlabs.com.
+Ticket 43325 was opened by Pamela Foster, reachable at pamela.foster@crystalbaysoftware.com.
+Benefits enrollment 91939 for employee Anna Jones recorded SSN 828-82-8550.
+Ticket 29339 was opened by Emily Young, reachable at emily.young@pioneervalleytech.com.
+Ticket 22496 from Cody Atkins reports VPN drops when connecting through gateway 35.159.188.252.
+Follow-up on ticket 99961: Kerri Moody asked to be called back at 922-470-4495 before noon.
+Benefits enrollment 99660 for employee Jessica Randolph recorded SSN 867-42-5506.
+Customer Holly Gallagher reported outage ticket 32921; they can be reached at 792-961-8316.
+Customer Kristin Yoder reported outage ticket 51685; they can be reached at 654-666-9413.
+Benefits enrollment 36559 for employee James Hodges recorded SSN 868-87-9000.
+Ticket 4504 from Scott Griffith reports VPN drops when connecting through gateway 142.98.246.127.
+Customer Donna Daugherty reported outage ticket 22845; they can be reached at 268-473-3054.
+Ticket 76823 was opened by Jennifer Johns, reachable at jennifer.johns@redwoodsystems.io.
+Follow-up on ticket 31733: Kevin Williams asked to be called back at 687-224-3483 before noon.
+Follow-up on ticket 64284: Julia Caldwell asked to be called back at 919-481-5866 before noon.
+Follow-up on ticket 16431: Terrence Harmon asked to be called back at 384-319-2260 before noon.
+Ticket 20935 from Jeffrey Smith reports VPN drops when connecting through gateway 27.43.31.5.
+Benefits enrollment 63225 for employee Jill Burke recorded SSN 554-91-7673.
+Ticket 17427 from Megan Swanson reports VPN drops when connecting through gateway 175.108.152.142.
+Customer Stephanie Kane reported outage ticket 49273; they can be reached at 704-424-5263.
+
+[Security & Incident Review]
+The post-incident report for INC-22917 was submitted by Jennifer Graham from jennifer.graham@goldenoakrealty.com.
+Incident INC-56861: repeated failed login attempts originated from 135.150.150.34.
+The suspicious scan against the payment API in case 82864 was traced back to 5.78.48.12.
+Firewall audit 26966 flagged outbound traffic to 144.228.84.9 as anomalous.
+The suspicious scan against the payment API in case 25584 was traced back to 149.167.157.4.
+During incident INC-75730, on-call engineer Michael Baker was paged at 301-435-4768.
+The suspicious scan against the payment API in case 20085 was traced back to 211.112.205.251.
+During incident INC-70086, on-call engineer Eric Montoya was paged at 257-837-6699.
+Incident INC-69398: repeated failed login attempts originated from 124.57.205.70.
+The post-incident report for INC-99302 was submitted by Louis Caldwell from louis.caldwell@swiftcurrentair.com.
+Server SRV-5152 was assigned the static address 14.0.100.239 during maintenance.
+Server SRV-94609 was assigned the static address 18.5.27.39 during maintenance.
+Firewall audit 77696 flagged outbound traffic to 130.72.196.84 as anomalous.
+Server SRV-23025 was assigned the static address 220.79.22.137 during maintenance.
+The post-incident report for INC-20406 was submitted by Natalie Soto from natalie.soto@ironcladsecurity.io.
+Server SRV-9196 was assigned the static address 123.63.47.2 during maintenance.
+During incident INC-25805, on-call engineer Jacob Holland was paged at 697-426-4154.
+The post-incident report for INC-35391 was submitted by Megan Martinez from megan.martinez@westgateautomotive.com.
+The suspicious scan against the payment API in case 16123 was traced back to 79.224.96.5.
+During incident INC-56684, on-call engineer Judith Bailey was paged at 602-665-5695.
+Firewall audit 31083 flagged outbound traffic to 169.152.97.82 as anomalous.
+Firewall audit 39169 flagged outbound traffic to 37.111.34.87 as anomalous.
+Incident INC-62943: repeated failed login attempts originated from 88.202.121.128.
+Incident INC-41577: repeated failed login attempts originated from 104.22.62.134.
+
+[CRM Account Notes]
+Lead LEAD-14771 (Natalie Gomez) prefers to be contacted via natalie.gomez@bluecraneanalytics.com.
+The renewal reminder for contract 87449 should go to Tina Rivas at tina.rivas@crystalbaysoftware.com.
+Background screening 54723 verified applicant Anthony Wagner against SSN 325-72-3924.
+Lead LEAD-28846 (Samantha Ibarra) prefers to be contacted via samantha.ibarra@kingfisherlogistics.net.
+Account manager Lori Wise, covering account ACC-79277, lists 849-443-9689 as their direct line.
+Account manager Juan Thomas, covering account ACC-96573, lists 691-348-7615 as their direct line.
+Account manager Jonathan Howell, covering account ACC-98969, lists 564-397-5468 as their direct line.
+The renewal reminder for contract 96907 should go to Robert Butler at robert.butler@ironcladsecurity.io.
+Credit check 99731 run for Jacob Ryan referenced SSN 201-17-7050.
+VIP client Fernando Rowe keeps card 4840-0169-1716-1916 on file under profile 14333.
+The renewal reminder for contract 5134 should go to Matthew Johnson at matthew.johnson@stonebridgeretail.com.
+Identity verification for case 67979 (Joseph Garcia) was completed using SSN 691-77-3618.
+The renewal reminder for contract 63206 should go to Katherine Stephenson at katherine.stephenson@pioneervalleytech.com.
+VIP client Kristen Bush keeps card 4620-6905-3600-4743 on file under profile 80663.
+VIP client John Duncan keeps card 4650-7454-5889-8406 on file under profile 60886.
+Credit check 4706 run for Julia Shepherd referenced SSN 676-73-5735.
+Credit check 75020 run for Darryl Scott referenced SSN 276-24-1919.
+Credit check 70444 run for Jennifer Bean referenced SSN 403-22-6292.
+Background screening 58458 verified applicant Sheri Morris against SSN 753-10-1941.
+Lead LEAD-62206 (Stephen Rojas) prefers to be contacted via stephen.rojas@lakeshorecapital.com.
+Lead LEAD-65240 (Sandra Mitchell) prefers to be contacted via sandra.mitchell@westgateautomotive.com.
+Identity verification for case 18443 (Tracy Sanchez) was completed using SSN 813-33-4565.
+Account manager Tara Mcfarland, covering account ACC-40125, lists 282-776-2416 as their direct line.
+Identity verification for case 28379 (Dorothy Anderson) was completed using SSN 405-65-2633.
+VIP client Sara Kennedy keeps card 4835-2574-4953-1969 on file under profile 56825.
+Identity verification for case 79336 (Emily Holland) was completed using SSN 804-59-8685.
+Background screening 9607 verified applicant Raymond Rice against SSN 830-53-4900.
+Background screening 17994 verified applicant Kaitlin Atkinson against SSN 601-95-8295.
+
+[Billing Operations]
+The W-9 form numbered 69622, submitted by Adrian Baker, lists SSN 113-38-5140.
+Chargeback case 48394 concerns a payment made with 4492-8948-3425-3800.
+Invoice 80398 was disputed by Barbara Howell, who asked for written confirmation at barbara.howell@summitridgeinsurance.com.
+The W-9 form numbered 13572, submitted by Stacey Jackson, lists SSN 503-38-7235.
+The W-9 form numbered 56958, submitted by Michael Stokes, lists SSN 873-78-3322.
+Refund request 36811: Crystal Patel asked for the charge on 4979-0337-5432-6211 to be reversed.
+Order 51435 placed by David Palmer was charged to card 4078-2342-5712-3276.
+Refund request 73799: Jacob Randolph asked for the charge on 4250-4374-1541-2208 to be reversed.
+Chargeback case 67355 concerns a payment made with 4096-6936-1355-2124.
+Subscription renewal 65633 failed because card 4546-5769-5365-2119 was declined.
+Chargeback case 15144 concerns a payment made with 4242-1571-4269-6471.
+Order 64659 placed by Joseph Norris was charged to card 4345-1112-7148-6529.
+Invoice 6632 was disputed by Robin Garcia, who asked for written confirmation at robin.garcia@lakeshorecapital.com.
+Order 52371 placed by Scott Shah was charged to card 4773-4461-3191-3041.
+Order 67832 placed by George Johnson was charged to card 4214-5633-9407-6257.
+Chargeback case 30282 concerns a payment made with 4739-6410-4765-7105.
+Billing dispute 75104 filed by Jennifer Elliott includes the contact number 774-368-3775.
+The W-9 form numbered 91452, submitted by Ivan Roman, lists SSN 232-57-3562.
+Subscription renewal 29594 failed because card 4901-6501-4917-2213 was declined.
+Billing dispute 62395 filed by Mary Andrews includes the contact number 877-993-7500.
+Billing dispute 69313 filed by William Campos includes the contact number 603-417-2153.
+Invoice 64373 was disputed by Justin Martinez, who asked for written confirmation at justin.martinez@ironcladsecurity.io.
+Subscription renewal 36313 failed because card 4621-6900-7833-3069 was declined.
+Invoice 56047 was disputed by Jack Mendoza, who asked for written confirmation at jack.mendoza@summitridgeinsurance.com.
+Billing dispute 64979 filed by Gregory Smith includes the contact number 529-643-3338.
+Subscription renewal 84753 failed because card 4521-9825-0503-4609 was declined.
+Refund request 97382: Martin Haynes asked for the charge on 4610-0420-2100-0303 to be reversed.
+Refund request 42438: Ryan Wyatt asked for the charge on 4746-1095-4205-9330 to be reversed.
+
+=== PAGE 6 ===
+
+[Support Desk Log]
+Follow-up on ticket 94682: Nicholas Thornton asked to be called back at 610-319-1171 before noon.
+Ticket 3921 was opened by Antonio Robinson, reachable at antonio.robinson@bluecraneanalytics.com.
+Ticket 24257 was opened by Stephen Nelson, reachable at stephen.nelson@highplainsutility.org.
+Benefits enrollment 78237 for employee Brittany Brown recorded SSN 709-11-9831.
+Ticket 87136 from Ronald Baker reports VPN drops when connecting through gateway 70.156.169.203.
+Follow-up on ticket 91198: Kevin Moon asked to be called back at 661-344-8092 before noon.
+Follow-up on ticket 66258: Richard King asked to be called back at 854-227-8101 before noon.
+Customer Deborah Doyle reported outage ticket 11650; they can be reached at 243-860-3468.
+Ticket 14269 from Ryan Nelson reports VPN drops when connecting through gateway 104.117.199.222.
+Ticket 7961 was opened by Stephen Adams, reachable at stephen.adams@swiftcurrentair.com.
+Ticket 66777 was opened by Chelsea Olsen, reachable at chelsea.olsen@acmelogistics.com.
+Follow-up on ticket 95547: Ashley Osborne asked to be called back at 667-497-6766 before noon.
+Benefits enrollment 36368 for employee Jacob Francis recorded SSN 207-32-4822.
+Customer Joann Taylor reported outage ticket 42369; they can be reached at 613-487-7782.
+Benefits enrollment 2000 for employee Mitchell Cortez recorded SSN 627-42-6827.
+Benefits enrollment 88071 for employee Jeffrey Myers recorded SSN 433-50-3673.
+Ticket 24343 from Amber Barry reports VPN drops when connecting through gateway 222.11.126.103.
+Customer Valerie Brown reported outage ticket 34382; they can be reached at 527-256-3049.
+Customer Laura White reported outage ticket 10879; they can be reached at 728-646-8556.
+Ticket 39717 from Barbara Shepard reports VPN drops when connecting through gateway 158.127.171.32.
+
+[Security & Incident Review]
+Firewall audit 83812 flagged outbound traffic to 43.89.222.74 as anomalous.
+During incident INC-38957, on-call engineer Stacey Moreno was paged at 396-976-3095.
+The suspicious scan against the payment API in case 99250 was traced back to 216.26.35.222.
+Firewall audit 69128 flagged outbound traffic to 144.151.232.242 as anomalous.
+Incident INC-68693: repeated failed login attempts originated from 182.110.185.148.
+The post-incident report for INC-49158 was submitted by Erica Olson from erica.olson@fairviewclinicgroup.com.
+Incident INC-42449: repeated failed login attempts originated from 2.74.53.87.
+The suspicious scan against the payment API in case 49761 was traced back to 195.24.45.208.
+Firewall audit 17508 flagged outbound traffic to 192.128.44.155 as anomalous.
+During incident INC-25736, on-call engineer John Gonzales was paged at 266-397-1733.
+Incident INC-34009: repeated failed login attempts originated from 195.191.238.3.
+Incident INC-39732: repeated failed login attempts originated from 123.24.182.177.
+The suspicious scan against the payment API in case 34756 was traced back to 39.237.247.163.
+During incident INC-78518, on-call engineer Mary Schmidt was paged at 343-701-1606.
+The suspicious scan against the payment API in case 75643 was traced back to 171.29.40.35.
+The post-incident report for INC-5893 was submitted by Kathleen Miller from kathleen.miller@kingfisherlogistics.net.
+Firewall audit 77443 flagged outbound traffic to 190.84.65.59 as anomalous.
+The post-incident report for INC-90154 was submitted by Destiny Terry from destiny.terry@redwoodsystems.io.
+During incident INC-11320, on-call engineer Trevor Zimmerman was paged at 575-891-2078.
+Server SRV-35579 was assigned the static address 81.184.243.154 during maintenance.
+Server SRV-48740 was assigned the static address 90.22.219.40 during maintenance.
+Server SRV-3673 was assigned the static address 12.145.185.170 during maintenance.
+Server SRV-87650 was assigned the static address 104.90.179.198 during maintenance.
+The post-incident report for INC-31594 was submitted by Matthew Clark from matthew.clark@northwindtrading.com.
+
+[CRM Account Notes]
+Lead LEAD-92901 (Kevin Smith) prefers to be contacted via kevin.smith@orchardpointhealth.org.
+Identity verification for case 99022 (Kaitlyn Taylor) was completed using SSN 285-17-3960.
+The renewal reminder for contract 30783 should go to Veronica Mcneil at veronica.mcneil@crystalbaysoftware.com.
+Lead LEAD-32959 (Julia Diaz) prefers to be contacted via julia.diaz@clearwatertelecom.net.
+Account manager Gary Quinn, covering account ACC-50163, lists 944-718-1898 as their direct line.
+Lead LEAD-77423 (Jonathan Gonzales) prefers to be contacted via jonathan.gonzales@orchardpointhealth.org.
+Account manager Andrea Reese, covering account ACC-93407, lists 386-850-9955 as their direct line.
+Credit check 74026 run for Julie Miller referenced SSN 246-49-3516.
+The renewal reminder for contract 66020 should go to Patrick Clay at patrick.clay@stonebridgeretail.com.
+Background screening 8071 verified applicant Krystal Huff against SSN 861-16-3510.
+Background screening 31345 verified applicant Dominic Conley against SSN 718-50-1343.
+Background screening 83430 verified applicant William Rodriguez against SSN 516-22-3211.
+Credit check 94009 run for Justin Edwards referenced SSN 839-26-9692.
+VIP client Latoya Green keeps card 4155-5179-1162-9220 on file under profile 7344.
+Background screening 67385 verified applicant Louis Murphy against SSN 501-20-3597.
+Identity verification for case 86812 (Samantha Santiago) was completed using SSN 328-18-2241.
+VIP client Charles Scott keeps card 4742-5110-7997-5082 on file under profile 66958.
+Account manager Dorothy Hernandez, covering account ACC-70000, lists 448-407-5499 as their direct line.
+Account manager Richard Owen, covering account ACC-70633, lists 369-525-4421 as their direct line.
+Lead LEAD-24231 (James Espinoza) prefers to be contacted via james.espinoza@clearwatertelecom.net.
+The renewal reminder for contract 50721 should go to Tanya Wheeler at tanya.wheeler@clearwatertelecom.net.
+VIP client Steven Kelley keeps card 4598-3592-6889-6539 on file under profile 16426.
+Credit check 33648 run for Suzanne Smith referenced SSN 435-52-7812.
+VIP client Jessica Mills keeps card 4290-2131-2869-9684 on file under profile 9564.
+The renewal reminder for contract 11094 should go to Stephen Hughes at stephen.hughes@highplainsutility.org.
+Identity verification for case 21591 (Rachel Horn) was completed using SSN 474-88-1628.
+Identity verification for case 74731 (Scott Lewis) was completed using SSN 168-86-7010.
+Credit check 38372 run for Luis Camacho referenced SSN 145-35-2231.
+
+[Billing Operations]
+Invoice 60734 was disputed by Julie Garcia, who asked for written confirmation at julie.garcia@stonebridgeretail.com.
+The W-9 form numbered 84095, submitted by Brooke Brown, lists SSN 710-52-7691.
+Chargeback case 19186 concerns a payment made with 4543-7679-5289-9294.
+Subscription renewal 1633 failed because card 4798-1233-2247-2159 was declined.
+Chargeback case 20521 concerns a payment made with 4871-1941-6411-0926.
+Chargeback case 81913 concerns a payment made with 4485-0799-9477-8789.
+Refund request 35096: Bryan Bowers asked for the charge on 4435-2893-2973-3947 to be reversed.
+Order 72675 placed by Meghan Thomas was charged to card 4494-5653-2975-8806.
+Billing dispute 63818 filed by Raymond Johnson includes the contact number 977-828-1246.
+Billing dispute 57697 filed by Matthew Wolf includes the contact number 398-959-6293.
+The W-9 form numbered 99188, submitted by Timothy Brewer, lists SSN 759-51-9858.
+Order 89192 placed by Erica Jones was charged to card 4086-8293-3459-9440.
+Chargeback case 53442 concerns a payment made with 4037-2997-6971-7788.
+Refund request 2621: Jasmine Patel asked for the charge on 4384-5374-2528-4231 to be reversed.
+Invoice 92063 was disputed by Belinda Jordan, who asked for written confirmation at belinda.jordan@acmelogistics.com.
+Billing dispute 17782 filed by Michael Elliott includes the contact number 860-586-9148.
+Refund request 31286: Glenda George asked for the charge on 4442-4053-2340-9516 to be reversed.
+Refund request 20990: Jesse Richardson asked for the charge on 4177-7846-2558-4340 to be reversed.
+Subscription renewal 70449 failed because card 4376-9222-1940-4257 was declined.
+The W-9 form numbered 58657, submitted by George Marquez, lists SSN 616-33-4510.
+Order 35082 placed by Taylor Warren was charged to card 4721-1531-9909-7861.
+Subscription renewal 75904 failed because card 4369-7681-6282-7926 was declined.
+Billing dispute 61728 filed by Ann Conway includes the contact number 390-998-9512.
+The W-9 form numbered 2894, submitted by Vincent Benson, lists SSN 438-80-1013.
+Order 78189 placed by James Barajas was charged to card 4956-3385-1388-3461.
+Invoice 32287 was disputed by John Patel, who asked for written confirmation at john.patel@lakeshorecapital.com.
+Invoice 46026 was disputed by Eric Mckinney, who asked for written confirmation at eric.mckinney@silverpinebank.com.
+Subscription renewal 35424 failed because card 4835-2342-6889-2922 was declined.
+
+=== PAGE 7 ===
+
+[Support Desk Log]
+Follow-up on ticket 2841: Brittney Navarro asked to be called back at 341-940-1871 before noon.
+Ticket 9195 was opened by Connie Lynch, reachable at connie.lynch@orchardpointhealth.org.
+Benefits enrollment 5966 for employee Melanie Thomas recorded SSN 370-83-8154.
+Follow-up on ticket 50337: Diane Parker asked to be called back at 292-238-9602 before noon.
+Ticket 66370 was opened by Ross Mclaughlin, reachable at ross.mclaughlin@silverpinebank.com.
+Customer Carl Green reported outage ticket 40587; they can be reached at 565-795-1736.
+Ticket 85836 from Earl Barnes reports VPN drops when connecting through gateway 6.243.52.80.
+Customer Joseph Dyer reported outage ticket 53826; they can be reached at 276-961-8283.
+Follow-up on ticket 79366: Karen Morris asked to be called back at 705-607-8148 before noon.
+Customer Thomas Hensley reported outage ticket 82123; they can be reached at 868-902-2110.
+Ticket 73450 from Kaitlyn Jackson reports VPN drops when connecting through gateway 72.6.225.85.
+Ticket 11532 from Melissa Boyd reports VPN drops when connecting through gateway 214.206.205.137.
+Ticket 71053 was opened by Suzanne Marshall, reachable at suzanne.marshall@pioneervalleytech.com.
+Follow-up on ticket 18004: Brandon Wiggins asked to be called back at 722-517-2464 before noon.
+Benefits enrollment 47896 for employee Katelyn Nelson recorded SSN 638-93-3910.
+Customer Kelly King reported outage ticket 55394; they can be reached at 713-684-9090.
+Benefits enrollment 9392 for employee Jeffery Roy recorded SSN 364-71-4142.
+Benefits enrollment 41200 for employee Meagan Hernandez recorded SSN 891-80-4353.
+Ticket 20449 from Emily Marquez reports VPN drops when connecting through gateway 132.236.84.5.
+Ticket 29831 was opened by Rick Payne, reachable at rick.payne@amberfieldfarms.com.
+
+[Security & Incident Review]
+Incident INC-22068: repeated failed login attempts originated from 159.94.19.192.
+Server SRV-85258 was assigned the static address 184.112.209.3 during maintenance.
+The post-incident report for INC-78585 was submitted by Jeremy Edwards from jeremy.edwards@acmelogistics.com.
+During incident INC-9746, on-call engineer Donna Jackson was paged at 854-401-8402.
+The post-incident report for INC-98849 was submitted by Samantha Lee from samantha.lee@harborlightmedia.com.
+Firewall audit 83376 flagged outbound traffic to 71.114.235.76 as anomalous.
+Firewall audit 84055 flagged outbound traffic to 184.176.31.71 as anomalous.
+The suspicious scan against the payment API in case 49531 was traced back to 184.101.117.235.
+The suspicious scan against the payment API in case 96537 was traced back to 31.115.68.193.
+During incident INC-81846, on-call engineer Scott Scott was paged at 938-531-3084.
+Server SRV-65018 was assigned the static address 77.165.179.204 during maintenance.
+Incident INC-95002: repeated failed login attempts originated from 115.174.57.20.
+The suspicious scan against the payment API in case 95945 was traced back to 100.148.152.199.
+Server SRV-82061 was assigned the static address 92.109.249.122 during maintenance.
+The suspicious scan against the payment API in case 15179 was traced back to 38.89.81.20.
+Firewall audit 6320 flagged outbound traffic to 61.18.189.174 as anomalous.
+Incident INC-5895: repeated failed login attempts originated from 156.148.78.60.
+Firewall audit 3010 flagged outbound traffic to 1.84.11.17 as anomalous.
+During incident INC-97224, on-call engineer Thomas Figueroa was paged at 944-831-1866.
+The post-incident report for INC-36291 was submitted by Keith Cabrera from keith.cabrera@fairviewclinicgroup.com.
+Server SRV-93708 was assigned the static address 180.161.96.84 during maintenance.
+The post-incident report for INC-51358 was submitted by Melissa Thompson from melissa.thompson@lakeshorecapital.com.
+During incident INC-12642, on-call engineer Scott Santiago was paged at 539-382-9992.
+Incident INC-68310: repeated failed login attempts originated from 178.196.54.6.
+
+[CRM Account Notes]
+Account manager Bradley Lewis, covering account ACC-99258, lists 244-226-2583 as their direct line.
+Account manager Alexandra Ferguson, covering account ACC-58680, lists 910-393-6002 as their direct line.
+The renewal reminder for contract 32711 should go to Matthew Gordon at matthew.gordon@orchardpointhealth.org.
+VIP client Douglas Richardson keeps card 4297-1294-2713-8350 on file under profile 71401.
+Background screening 78389 verified applicant James Frost against SSN 369-63-7142.
+Background screening 81946 verified applicant Maurice Curtis against SSN 674-95-8353.
+The renewal reminder for contract 77400 should go to Shari Jensen at shari.jensen@stonebridgeretail.com.
+Credit check 98405 run for Jacob Chandler referenced SSN 151-93-4071.
+VIP client Taylor Hampton keeps card 4708-3016-6962-9178 on file under profile 30180.
+Lead LEAD-42965 (Leonard Johnson) prefers to be contacted via leonard.johnson@maplecrestfoods.com.
+Identity verification for case 25425 (Alejandra Johnson) was completed using SSN 317-13-1671.
+Background screening 88926 verified applicant Tammy Turner against SSN 747-23-1421.
+Credit check 15959 run for Monica Hicks referenced SSN 644-15-8671.
+Lead LEAD-19158 (Max Shea) prefers to be contacted via max.shea@summitridgeinsurance.com.
+VIP client Joseph Meyers keeps card 4778-3029-1370-0322 on file under profile 4518.
+Credit check 57468 run for Kevin Simmons referenced SSN 159-25-1619.
+VIP client Andrea Harper keeps card 4707-1263-8449-6295 on file under profile 85410.
+Lead LEAD-37097 (Maria Jackson) prefers to be contacted via maria.jackson@goldenoakrealty.com.
+Identity verification for case 94607 (Michelle Rodriguez) was completed using SSN 350-85-9153.
+The renewal reminder for contract 35133 should go to George Davis at george.davis@crystalbaysoftware.com.
+Account manager Leslie Nelson, covering account ACC-74861, lists 601-529-9266 as their direct line.
+Credit check 58594 run for Teresa Lopez referenced SSN 400-41-4877.
+Background screening 43357 verified applicant Melanie Hudson against SSN 220-93-4684.
+Identity verification for case 93685 (Darrell Robles) was completed using SSN 570-57-8921.
+Identity verification for case 48156 (Patrick Frye) was completed using SSN 429-89-7253.
+Account manager Kim Aguirre, covering account ACC-37346, lists 560-783-3194 as their direct line.
+Lead LEAD-41119 (Laura Greene) prefers to be contacted via laura.greene@amberfieldfarms.com.
+The renewal reminder for contract 79994 should go to Glenn Cortez at glenn.cortez@westgateautomotive.com.
+
+[Billing Operations]
+Chargeback case 61508 concerns a payment made with 4878-2822-9779-5609.
+Invoice 31059 was disputed by Amanda Mcdaniel, who asked for written confirmation at amanda.mcdaniel@highplainsutility.org.
+Billing dispute 8701 filed by Timothy Owens includes the contact number 304-250-7992.
+Invoice 77063 was disputed by Kyle Mclean, who asked for written confirmation at kyle.mclean@bluecraneanalytics.com.
+The W-9 form numbered 36612, submitted by Andrew Gray, lists SSN 887-49-3498.
+Order 43732 placed by Jacqueline Hill was charged to card 4512-5598-4818-0955.
+Invoice 17291 was disputed by Laura Page, who asked for written confirmation at laura.page@bluecraneanalytics.com.
+Subscription renewal 12069 failed because card 4351-1483-1997-6227 was declined.
+The W-9 form numbered 11252, submitted by Claudia Perez, lists SSN 836-23-1901.
+Order 19124 placed by Jeffrey Tran was charged to card 4947-0142-3157-4972.
+Billing dispute 74019 filed by Aaron Warren includes the contact number 796-220-5345.
+Refund request 93306: Stephanie Alvarez asked for the charge on 4828-1696-1853-8890 to be reversed.
+Billing dispute 42597 filed by Beth Davies includes the contact number 251-622-2429.
+Invoice 71119 was disputed by Mary Garcia, who asked for written confirmation at mary.garcia@westgateautomotive.com.
+Order 52615 placed by John Osborn was charged to card 4598-1879-6084-6496.
+Order 40351 placed by Jeffery Green was charged to card 4618-1310-2414-4610.
+Refund request 18530: Michelle Morris asked for the charge on 4955-5365-2841-1643 to be reversed.
+Billing dispute 22825 filed by Daniel Edwards includes the contact number 706-868-7851.
+Refund request 59818: Brian Fuller asked for the charge on 4851-4618-1992-8331 to be reversed.
+The W-9 form numbered 73228, submitted by Cody Foster, lists SSN 792-94-6750.
+Chargeback case 31580 concerns a payment made with 4909-9060-8425-3870.
+Subscription renewal 2266 failed because card 4545-4474-0606-6238 was declined.
+Subscription renewal 56546 failed because card 4040-9686-4238-9854 was declined.
+Chargeback case 29521 concerns a payment made with 4655-9374-0442-8281.
+The W-9 form numbered 48857, submitted by Kelly Johnson, lists SSN 820-25-1030.
+Chargeback case 92867 concerns a payment made with 4078-0455-4437-3611.
+Refund request 21546: Julie Petty asked for the charge on 4227-7692-6323-7709 to be reversed.
+Subscription renewal 46956 failed because card 4905-6730-9233-6352 was declined.
+
+=== PAGE 8 ===
+
+[Support Desk Log]
+Ticket 98234 was opened by Peter Krause, reachable at peter.krause@goldenoakrealty.com.
+Follow-up on ticket 5743: Carla Price asked to be called back at 560-529-9911 before noon.
+Ticket 43249 from Courtney Adkins reports VPN drops when connecting through gateway 42.97.0.237.
+Customer Tamara Cunningham reported outage ticket 67266; they can be reached at 312-739-9337.
+Follow-up on ticket 50820: Elizabeth Moore asked to be called back at 336-781-6674 before noon.
+Benefits enrollment 68754 for employee Brandy Gray recorded SSN 107-69-7335.
+Follow-up on ticket 13146: Daniel Hunter asked to be called back at 421-611-3284 before noon.
+Ticket 35246 was opened by Linda Cruz, reachable at linda.cruz@highplainsutility.org.
+Ticket 94958 from Tammy Hill reports VPN drops when connecting through gateway 87.162.201.101.
+Ticket 43648 was opened by Nicole Hicks, reachable at nicole.hicks@acmelogistics.com.
+Benefits enrollment 67061 for employee Jason Hoffman recorded SSN 494-10-9700.
+Ticket 72805 from Nancy Moreno reports VPN drops when connecting through gateway 72.76.66.37.
+Ticket 70869 was opened by Stephanie Johnson, reachable at stephanie.johnson@harborlightmedia.com.
+Ticket 94800 from Gordon Cunningham reports VPN drops when connecting through gateway 110.182.141.133.
+Follow-up on ticket 26305: Daniel Mueller asked to be called back at 809-200-2905 before noon.
+Customer Cristian Santos reported outage ticket 15481; they can be reached at 426-896-4205.
+Customer Hannah Anderson reported outage ticket 9409; they can be reached at 312-677-8162.
+Benefits enrollment 5535 for employee Tricia Anderson recorded SSN 141-46-3397.
+Benefits enrollment 68719 for employee William Mendoza recorded SSN 308-71-1404.
+Customer Tracy Wyatt reported outage ticket 8969; they can be reached at 227-292-7228.
+
+[Security & Incident Review]
+The suspicious scan against the payment API in case 60464 was traced back to 75.193.81.128.
+Server SRV-56175 was assigned the static address 197.100.1.122 during maintenance.
+Incident INC-55984: repeated failed login attempts originated from 118.77.153.45.
+The suspicious scan against the payment API in case 77555 was traced back to 85.132.184.177.
+Incident INC-87271: repeated failed login attempts originated from 191.213.254.14.
+Server SRV-62787 was assigned the static address 16.21.138.116 during maintenance.
+The suspicious scan against the payment API in case 62831 was traced back to 102.159.133.92.
+The post-incident report for INC-27592 was submitted by Robert Mendoza from robert.mendoza@pioneervalleytech.com.
+During incident INC-70048, on-call engineer Jessica Acevedo was paged at 631-788-9467.
+Server SRV-61840 was assigned the static address 134.113.245.115 during maintenance.
+Incident INC-39139: repeated failed login attempts originated from 200.145.32.42.
+During incident INC-51434, on-call engineer Kimberly Hull was paged at 352-997-8622.
+During incident INC-17581, on-call engineer Anthony Jimenez was paged at 331-607-6256.
+During incident INC-60310, on-call engineer Donna Anderson was paged at 516-728-7789.
+The post-incident report for INC-19819 was submitted by Katherine Bowen from katherine.bowen@lakeshorecapital.com.
+The post-incident report for INC-44953 was submitted by Timothy Huffman from timothy.huffman@crystalbaysoftware.com.
+Incident INC-64687: repeated failed login attempts originated from 207.240.105.111.
+The suspicious scan against the payment API in case 14861 was traced back to 184.227.132.176.
+The post-incident report for INC-13960 was submitted by Natalie Bowman from natalie.bowman@swiftcurrentair.com.
+Firewall audit 12599 flagged outbound traffic to 116.24.147.142 as anomalous.
+Firewall audit 12629 flagged outbound traffic to 29.8.158.67 as anomalous.
+Firewall audit 63269 flagged outbound traffic to 221.178.67.131 as anomalous.
+Server SRV-60027 was assigned the static address 30.63.251.12 during maintenance.
+Firewall audit 98711 flagged outbound traffic to 14.67.82.202 as anomalous.
+
+[CRM Account Notes]
+Lead LEAD-30280 (Melissa Franklin) prefers to be contacted via melissa.franklin@ironcladsecurity.io.
+The renewal reminder for contract 13954 should go to Robert Roberts at robert.roberts@harborlightmedia.com.
+Background screening 75079 verified applicant Kevin Carter against SSN 407-32-9607.
+VIP client Christina Mcknight keeps card 4641-6988-7371-1999 on file under profile 33788.
+Background screening 75248 verified applicant Angela Moyer against SSN 587-75-2756.
+Lead LEAD-54863 (Maria Bryant) prefers to be contacted via maria.bryant@acmelogistics.com.
+The renewal reminder for contract 7614 should go to Spencer Palmer at spencer.palmer@cascadiafreight.com.
+The renewal reminder for contract 63736 should go to Clifford Adams at clifford.adams@westgateautomotive.com.
+Credit check 74528 run for Kenneth Kidd referenced SSN 236-27-3047.
+Background screening 77928 verified applicant Tony Bryant against SSN 642-96-2581.
+Background screening 25660 verified applicant John Perez against SSN 542-40-5135.
+VIP client Katie Gonzalez keeps card 4789-7302-7348-3733 on file under profile 29184.
+Account manager Nicole Mills, covering account ACC-42105, lists 347-435-8133 as their direct line.
+Identity verification for case 78931 (Jennifer Carter) was completed using SSN 311-13-6439.
+The renewal reminder for contract 46599 should go to Raymond Carlson at raymond.carlson@fairviewclinicgroup.com.
+Credit check 22097 run for Erin Blanchard referenced SSN 715-45-7888.
+Account manager Jennifer Delacruz, covering account ACC-58372, lists 830-202-5967 as their direct line.
+Account manager Michelle Peterson, covering account ACC-15151, lists 392-807-1273 as their direct line.
+Identity verification for case 97027 (David Johnson) was completed using SSN 774-16-2713.
+VIP client Margaret Davis keeps card 4716-6171-9990-2831 on file under profile 54651.
+VIP client William Stafford keeps card 4680-0114-5568-0080 on file under profile 30376.
+Account manager Nicole Henderson, covering account ACC-88128, lists 612-639-4374 as their direct line.
+Credit check 94216 run for Adrienne Chase referenced SSN 482-48-5310.
+Identity verification for case 56980 (Jason Brown) was completed using SSN 732-23-7846.
+Credit check 27190 run for Warren Neal referenced SSN 739-48-7953.
+Lead LEAD-96870 (Angela Cummings) prefers to be contacted via angela.cummings@pioneervalleytech.com.
+Lead LEAD-42300 (Todd Jones) prefers to be contacted via todd.jones@harborlightmedia.com.
+Identity verification for case 97472 (Nancy Mcdaniel) was completed using SSN 646-37-2972.
+
+[Billing Operations]
+Chargeback case 75556 concerns a payment made with 4746-4253-0101-5127.
+Refund request 88564: Gwendolyn Diaz asked for the charge on 4137-2459-2538-4290 to be reversed.
+Billing dispute 52687 filed by Kristin Rice includes the contact number 679-460-6579.
+The W-9 form numbered 24430, submitted by Gregory Flores, lists SSN 514-80-7245.
+Invoice 97113 was disputed by Kelly Mcdaniel, who asked for written confirmation at kelly.mcdaniel@acmelogistics.com.
+Subscription renewal 64083 failed because card 4746-5820-9800-9261 was declined.
+Subscription renewal 53154 failed because card 4755-5567-9631-3208 was declined.
+The W-9 form numbered 12934, submitted by Lindsey May, lists SSN 687-76-5881.
+Invoice 92035 was disputed by Trevor Bell, who asked for written confirmation at trevor.bell@fairviewclinicgroup.com.
+Billing dispute 33793 filed by Keith Ortiz includes the contact number 247-674-5876.
+Billing dispute 33379 filed by Johnny Christensen includes the contact number 863-606-1364.
+Order 21492 placed by Emma Randall was charged to card 4775-8084-4233-6475.
+Chargeback case 50564 concerns a payment made with 4419-1112-0633-5542.
+Chargeback case 52416 concerns a payment made with 4466-4888-9086-3675.
+Subscription renewal 59696 failed because card 4866-4332-7526-3747 was declined.
+Order 85670 placed by Laura Booth was charged to card 4926-3871-1093-5283.
+Order 87654 placed by Michael Schmitt was charged to card 4320-8950-3015-0284.
+Order 74218 placed by Allison Mccarthy was charged to card 4206-8721-7286-1430.
+Refund request 20402: Michael Simmons asked for the charge on 4174-5091-3089-5783 to be reversed.
+Billing dispute 69199 filed by Melissa Hamilton includes the contact number 223-583-8835.
+Invoice 30328 was disputed by Douglas Gonzalez, who asked for written confirmation at douglas.gonzalez@cascadiafreight.com.
+Invoice 31582 was disputed by Jessica Gould, who asked for written confirmation at jessica.gould@redwoodsystems.io.
+The W-9 form numbered 35992, submitted by Brandi Hoffman, lists SSN 604-51-6550.
+Refund request 34994: Alicia Anderson asked for the charge on 4315-5173-5816-8634 to be reversed.
+Chargeback case 38138 concerns a payment made with 4255-0030-3900-6766.
+Refund request 98554: Wanda Rice asked for the charge on 4677-4312-1056-6248 to be reversed.
+Subscription renewal 37633 failed because card 4614-5201-9770-1053 was declined.
+The W-9 form numbered 26549, submitted by Katherine Cooper, lists SSN 286-55-8388.
+
+=== PAGE 9 ===
+
+[Support Desk Log]
+Ticket 73303 from Brandon Lane reports VPN drops when connecting through gateway 144.164.64.29.
+Customer Louis Singleton reported outage ticket 75733; they can be reached at 204-653-5590.
+Customer Tyler Johnson reported outage ticket 37230; they can be reached at 438-880-3717.
+Ticket 14780 from Andrew Chambers reports VPN drops when connecting through gateway 141.131.60.213.
+Customer Zachary Gilmore reported outage ticket 32366; they can be reached at 500-729-2229.
+Ticket 1486 was opened by Jesus Osborne, reachable at jesus.osborne@brightpathlabs.com.
+Benefits enrollment 45562 for employee Cindy Hunter recorded SSN 852-15-3032.
+Benefits enrollment 79651 for employee Jennifer Curry recorded SSN 197-63-9262.
+Ticket 97505 from Nicholas Moore reports VPN drops when connecting through gateway 201.120.61.134.
+Ticket 50105 was opened by Luis Cobb, reachable at luis.cobb@swiftcurrentair.com.
+Benefits enrollment 84776 for employee Margaret Castaneda recorded SSN 686-35-6831.
+Ticket 1782 from Justin Thompson reports VPN drops when connecting through gateway 211.202.241.201.
+Follow-up on ticket 66185: Jacob Lee asked to be called back at 481-475-3303 before noon.
+Ticket 6472 was opened by Brittany Harrington, reachable at brittany.harrington@redwoodsystems.io.
+Follow-up on ticket 29026: Nicholas Hunter asked to be called back at 876-504-9015 before noon.
+Benefits enrollment 54928 for employee Eric Diaz recorded SSN 474-30-5993.
+Follow-up on ticket 78077: Steven Hayes asked to be called back at 895-441-8490 before noon.
+Ticket 62821 was opened by Jacqueline Crawford, reachable at jacqueline.crawford@westgateautomotive.com.
+Follow-up on ticket 95333: David Diaz asked to be called back at 955-285-9313 before noon.
+Customer Kimberly Pitts reported outage ticket 53469; they can be reached at 967-461-6325.
+
+[Security & Incident Review]
+Incident INC-80848: repeated failed login attempts originated from 178.182.8.127.
+Server SRV-38250 was assigned the static address 220.133.171.35 during maintenance.
+Server SRV-18609 was assigned the static address 158.181.161.70 during maintenance.
+During incident INC-74841, on-call engineer David Grimes was paged at 756-328-4605.
+The post-incident report for INC-8617 was submitted by Molly Schmidt from molly.schmidt@pioneervalleytech.com.
+The post-incident report for INC-58633 was submitted by Pamela Morris from pamela.morris@bluecraneanalytics.com.
+Server SRV-24391 was assigned the static address 1.133.9.143 during maintenance.
+Incident INC-95871: repeated failed login attempts originated from 109.14.212.224.
+The suspicious scan against the payment API in case 44909 was traced back to 77.57.107.201.
+The suspicious scan against the payment API in case 11825 was traced back to 121.105.171.9.
+During incident INC-90930, on-call engineer Joshua Richardson was paged at 205-756-5742.
+Firewall audit 95404 flagged outbound traffic to 36.46.142.52 as anomalous.
+Incident INC-61558: repeated failed login attempts originated from 137.38.217.226.
+The suspicious scan against the payment API in case 24466 was traced back to 114.73.56.190.
+During incident INC-9301, on-call engineer Leslie Thompson was paged at 348-787-4959.
+Firewall audit 97261 flagged outbound traffic to 94.95.33.249 as anomalous.
+Firewall audit 95838 flagged outbound traffic to 122.92.244.81 as anomalous.
+The post-incident report for INC-35248 was submitted by Hunter Prince from hunter.prince@clearwatertelecom.net.
+During incident INC-15612, on-call engineer Kathleen Smith was paged at 213-462-7711.
+Incident INC-64662: repeated failed login attempts originated from 144.123.149.248.
+Server SRV-12098 was assigned the static address 155.165.188.142 during maintenance.
+Firewall audit 84380 flagged outbound traffic to 128.202.182.111 as anomalous.
+The post-incident report for INC-92287 was submitted by Nicole Aguirre from nicole.aguirre@acmelogistics.com.
+The suspicious scan against the payment API in case 6340 was traced back to 160.198.66.192.
+
+[CRM Account Notes]
+Credit check 75721 run for Sarah Hines referenced SSN 598-10-2453.
+Lead LEAD-18713 (Sheri Boyle) prefers to be contacted via sheri.boyle@clearwatertelecom.net.
+Account manager Sophia Lee, covering account ACC-78461, lists 618-971-2626 as their direct line.
+Background screening 80674 verified applicant Melissa Duffy against SSN 387-50-7151.
+Account manager Ryan Sanchez, covering account ACC-76208, lists 552-867-1217 as their direct line.
+Account manager Molly Blanchard, covering account ACC-79744, lists 319-616-2346 as their direct line.
+Identity verification for case 97521 (Jesse Stewart) was completed using SSN 781-94-7541.
+Credit check 48954 run for Sarah Tran referenced SSN 584-15-5950.
+Credit check 13114 run for Tiffany Rodgers referenced SSN 859-19-5274.
+VIP client Thomas Webb keeps card 4533-8430-9807-8929 on file under profile 10664.
+Background screening 20098 verified applicant Julie Brown against SSN 418-99-9254.
+VIP client Timothy Richards keeps card 4017-3242-0847-6040 on file under profile 85799.
+Background screening 30960 verified applicant Scott Lopez against SSN 351-39-4867.
+Background screening 70244 verified applicant Ashley Mcfarland against SSN 482-30-8233.
+VIP client David Hardy keeps card 4798-3192-2740-7771 on file under profile 78959.
+Lead LEAD-56620 (Jennifer Morales) prefers to be contacted via jennifer.morales@highplainsutility.org.
+The renewal reminder for contract 62760 should go to Melanie Cooper at melanie.cooper@fairviewclinicgroup.com.
+The renewal reminder for contract 69752 should go to Daryl Mejia at daryl.mejia@kingfisherlogistics.net.
+The renewal reminder for contract 65355 should go to Kelly Bell at kelly.bell@highplainsutility.org.
+Identity verification for case 52760 (Alexander Wright) was completed using SSN 162-75-9914.
+Identity verification for case 20262 (Kristin Collins) was completed using SSN 372-73-5750.
+Lead LEAD-66376 (Kimberly Griffith) prefers to be contacted via kimberly.griffith@ironcladsecurity.io.
+Credit check 4298 run for Dawn Morris referenced SSN 292-60-4958.
+Lead LEAD-23821 (Lori Hicks) prefers to be contacted via lori.hicks@amberfieldfarms.com.
+The renewal reminder for contract 81973 should go to Judy Santos at judy.santos@lakeshorecapital.com.
+VIP client Eric Lamb keeps card 4952-4333-0902-2458 on file under profile 77993.
+Account manager Barbara Mendoza, covering account ACC-65855, lists 819-551-4410 as their direct line.
+Identity verification for case 44912 (Jason Nguyen) was completed using SSN 298-82-5271.
+
+[Billing Operations]
+Refund request 16361: Michael Blake asked for the charge on 4305-9424-9401-7554 to be reversed.
+The W-9 form numbered 60576, submitted by Frank Walls, lists SSN 417-51-2755.
+Chargeback case 73462 concerns a payment made with 4789-2873-9379-6741.
+Chargeback case 91142 concerns a payment made with 4018-7038-3055-9301.
+Refund request 85775: Benjamin Coleman asked for the charge on 4120-6107-8188-8220 to be reversed.
+Subscription renewal 65074 failed because card 4655-5723-5359-4199 was declined.
+Billing dispute 73482 filed by Sarah Ramirez includes the contact number 408-236-4306.
+Chargeback case 32071 concerns a payment made with 4239-4123-4048-4583.
+Invoice 90633 was disputed by Tracy Reynolds, who asked for written confirmation at tracy.reynolds@redwoodsystems.io.
+The W-9 form numbered 77360, submitted by Michelle Murphy, lists SSN 881-19-2251.
+Billing dispute 55650 filed by Cameron Ford includes the contact number 816-954-5480.
+Billing dispute 72860 filed by Mary Phillips includes the contact number 726-403-7612.
+Order 43912 placed by Hunter Kemp was charged to card 4166-5267-4315-0383.
+The W-9 form numbered 51864, submitted by Anna Burke, lists SSN 577-83-9731.
+Chargeback case 7604 concerns a payment made with 4531-2797-4130-3836.
+Subscription renewal 34647 failed because card 4754-6882-8779-7719 was declined.
+Billing dispute 6967 filed by Samantha Jimenez includes the contact number 871-695-5668.
+Subscription renewal 23406 failed because card 4848-2081-4117-3322 was declined.
+Refund request 50368: Nicole Thompson asked for the charge on 4164-1039-9055-5533 to be reversed.
+Refund request 81434: Megan Baldwin asked for the charge on 4779-5051-5600-9107 to be reversed.
+Invoice 13421 was disputed by Bobby Newman, who asked for written confirmation at bobby.newman@goldenoakrealty.com.
+Invoice 91541 was disputed by Emily Hubbard, who asked for written confirmation at emily.hubbard@bluecraneanalytics.com.
+Subscription renewal 94755 failed because card 4566-0897-8266-2869 was declined.
+Invoice 18001 was disputed by Michael Johnson, who asked for written confirmation at michael.johnson@crystalbaysoftware.com.
+Order 3797 placed by Robert Ross was charged to card 4182-8722-4163-8129.
+Order 75826 placed by Yvonne White was charged to card 4324-1095-2585-3980.
+The W-9 form numbered 13919, submitted by Alyssa Morris, lists SSN 603-91-5303.
+Order 33828 placed by Adam Snow was charged to card 4806-9173-4007-1466.
+
+=== PAGE 10 ===
+
+[Support Desk Log]
+Ticket 71892 from Julia Anderson reports VPN drops when connecting through gateway 12.245.226.180.
+Customer Ann Phillips reported outage ticket 86004; they can be reached at 262-598-3739.
+Ticket 23739 from Madison Peters reports VPN drops when connecting through gateway 117.188.91.168.
+Follow-up on ticket 65982: Cindy Snyder asked to be called back at 952-357-4882 before noon.
+Customer Tracy Torres reported outage ticket 63902; they can be reached at 634-200-2093.
+Ticket 73489 was opened by Corey Taylor, reachable at corey.taylor@northwindtrading.com.
+Ticket 27658 was opened by Angela Kim, reachable at angela.kim@acmelogistics.com.
+Follow-up on ticket 7658: Lauren Griffin asked to be called back at 939-693-1889 before noon.
+Customer Shannon Robinson reported outage ticket 34257; they can be reached at 935-920-8061.
+Benefits enrollment 46081 for employee Tiffany Burgess recorded SSN 600-24-4761.
+Follow-up on ticket 47836: Cory Chavez asked to be called back at 577-878-9239 before noon.
+Benefits enrollment 7136 for employee William Miller recorded SSN 102-61-7427.
+Ticket 29128 was opened by Sarah Walters, reachable at sarah.walters@orchardpointhealth.org.
+Ticket 67242 from James Frey reports VPN drops when connecting through gateway 170.224.229.188.
+Benefits enrollment 74692 for employee Cynthia Christian recorded SSN 562-25-8667.
+Benefits enrollment 3637 for employee Ana Garcia recorded SSN 530-98-6618.
+Ticket 68553 was opened by Jessica Mitchell, reachable at jessica.mitchell@orchardpointhealth.org.
+Ticket 18610 from Nathan Chapman reports VPN drops when connecting through gateway 120.128.13.157.
+Follow-up on ticket 39915: Erica Young asked to be called back at 524-714-5117 before noon.
+Customer Tamara Barrett reported outage ticket 56406; they can be reached at 206-346-3315.
+
+[Security & Incident Review]
+The suspicious scan against the payment API in case 69843 was traced back to 47.123.237.85.
+The suspicious scan against the payment API in case 17249 was traced back to 35.98.138.171.
+The post-incident report for INC-94049 was submitted by Katrina Rhodes from katrina.rhodes@silverpinebank.com.
+Incident INC-34879: repeated failed login attempts originated from 86.3.219.144.
+During incident INC-60959, on-call engineer Margaret Malone was paged at 918-740-5574.
+The suspicious scan against the payment API in case 78470 was traced back to 68.29.59.41.
+The suspicious scan against the payment API in case 10600 was traced back to 156.56.106.162.
+The post-incident report for INC-15741 was submitted by Joseph Thompson from joseph.thompson@orchardpointhealth.org.
+During incident INC-50889, on-call engineer Barbara Hurst was paged at 830-396-3170.
+Server SRV-99547 was assigned the static address 145.76.75.132 during maintenance.
+The post-incident report for INC-59735 was submitted by Kevin Fuller from kevin.fuller@clearwatertelecom.net.
+Server SRV-32120 was assigned the static address 89.23.69.223 during maintenance.
+Incident INC-32053: repeated failed login attempts originated from 25.180.4.179.
+During incident INC-12289, on-call engineer Matthew Blake was paged at 229-901-9119.
+Server SRV-51531 was assigned the static address 215.86.181.37 during maintenance.
+Incident INC-81272: repeated failed login attempts originated from 152.150.206.8.
+Firewall audit 25923 flagged outbound traffic to 20.110.225.115 as anomalous.
+Firewall audit 13639 flagged outbound traffic to 8.252.146.202 as anomalous.
+Firewall audit 2835 flagged outbound traffic to 9.253.30.13 as anomalous.
+The post-incident report for INC-13034 was submitted by Bryan Saunders from bryan.saunders@bluecraneanalytics.com.
+Incident INC-42644: repeated failed login attempts originated from 96.94.5.68.
+Firewall audit 32513 flagged outbound traffic to 9.50.226.16 as anomalous.
+Server SRV-42528 was assigned the static address 115.13.84.141 during maintenance.
+During incident INC-61962, on-call engineer Daniel Howell was paged at 895-505-9672.
+
+[CRM Account Notes]
+VIP client Joshua Hudson keeps card 4252-6964-5323-0587 on file under profile 70219.
+Credit check 15591 run for Mitchell Fuller referenced SSN 666-17-2488.
+Identity verification for case 29163 (Shannon Pham) was completed using SSN 783-70-6132.
+Identity verification for case 1794 (Donna Finley) was completed using SSN 414-13-4725.
+Account manager Leslie Martinez, covering account ACC-87590, lists 340-989-8024 as their direct line.
+Lead LEAD-99385 (Brian Olsen) prefers to be contacted via brian.olsen@orchardpointhealth.org.
+Credit check 14629 run for Jessica Mason referenced SSN 330-69-9902.
+Identity verification for case 97568 (Troy Graham) was completed using SSN 617-19-5036.
+Credit check 94907 run for Tamara Davis referenced SSN 120-61-9278.
+VIP client Joseph Giles keeps card 4663-6364-8226-7690 on file under profile 49221.
+Account manager Mark Hall, covering account ACC-52453, lists 517-228-1869 as their direct line.
+Credit check 69737 run for Jade Simmons referenced SSN 241-34-2041.
+Lead LEAD-44030 (Bradley Moreno) prefers to be contacted via bradley.moreno@amberfieldfarms.com.
+Lead LEAD-82466 (Catherine Smith) prefers to be contacted via catherine.smith@harborlightmedia.com.
+Identity verification for case 29991 (Tiffany Smith) was completed using SSN 346-66-5996.
+The renewal reminder for contract 56382 should go to Stephanie Hawkins at stephanie.hawkins@bluecraneanalytics.com.
+VIP client Troy Davis keeps card 4998-8629-3224-3315 on file under profile 75252.
+Lead LEAD-20314 (Adrian Robertson) prefers to be contacted via adrian.robertson@crystalbaysoftware.com.
+Background screening 14414 verified applicant Eddie Rowland against SSN 646-66-8215.
+Account manager Mark Hill, covering account ACC-34892, lists 283-273-7731 as their direct line.
+The renewal reminder for contract 78129 should go to Natalie Pacheco at natalie.pacheco@summitridgeinsurance.com.
+Account manager Samantha Park, covering account ACC-71971, lists 504-267-1932 as their direct line.
+VIP client Marcus Martinez keeps card 4940-2095-1664-5773 on file under profile 54986.
+Background screening 80054 verified applicant Denise Jones against SSN 583-99-2151.
+Background screening 4793 verified applicant Danielle Aguilar against SSN 155-30-8643.
+Background screening 7514 verified applicant Matthew Brown against SSN 433-21-1485.
+The renewal reminder for contract 2033 should go to Katie Houston at katie.houston@pioneervalleytech.com.
+The renewal reminder for contract 93657 should go to Eric Daugherty at eric.daugherty@cascadiafreight.com.
+
+[Billing Operations]
+Refund request 20539: Samantha Hudson asked for the charge on 4685-6171-1913-1902 to be reversed.
+Order 68517 placed by Lisa Alexander was charged to card 4480-1081-2066-2048.
+Billing dispute 80990 filed by Jerry Mcdowell includes the contact number 322-663-8884.
+Billing dispute 3027 filed by Ashlee Hester includes the contact number 471-369-2784.
+Invoice 11778 was disputed by Gina Weaver, who asked for written confirmation at gina.weaver@amberfieldfarms.com.
+Chargeback case 10795 concerns a payment made with 4237-4810-6621-1456.
+Billing dispute 67178 filed by William Morales includes the contact number 716-264-9104.
+Invoice 47719 was disputed by James Juarez, who asked for written confirmation at james.juarez@swiftcurrentair.com.
+Subscription renewal 61147 failed because card 4937-0554-3259-3399 was declined.
+The W-9 form numbered 26194, submitted by Robert Miller, lists SSN 740-71-4111.
+Subscription renewal 34789 failed because card 4898-7540-5027-7557 was declined.
+Refund request 15832: Robert Shaw asked for the charge on 4528-1799-5774-6023 to be reversed.
+Chargeback case 41836 concerns a payment made with 4696-9194-3987-9073.
+Order 1673 placed by Brandi Smith was charged to card 4698-0413-4725-5238.
+Subscription renewal 74403 failed because card 4067-4670-1413-6641 was declined.
+Subscription renewal 60077 failed because card 4431-2682-3869-9938 was declined.
+Invoice 15653 was disputed by Matthew Combs, who asked for written confirmation at matthew.combs@redwoodsystems.io.
+Chargeback case 31603 concerns a payment made with 4590-5206-9580-1708.
+Billing dispute 86733 filed by Alexander Green includes the contact number 530-613-2747.
+The W-9 form numbered 89690, submitted by Bradley Keller, lists SSN 870-21-9341.
+Refund request 96589: Jaime Jensen asked for the charge on 4892-6938-9726-2190 to be reversed.
+The W-9 form numbered 25124, submitted by Lisa White, lists SSN 126-19-4853.
+Order 62673 placed by Bonnie Smith was charged to card 4313-0579-9922-8730.
+Refund request 20986: Jennifer Brown asked for the charge on 4809-3718-4571-9148 to be reversed.
+The W-9 form numbered 20453, submitted by Dawn Hickman, lists SSN 453-33-1441.
+Chargeback case 28525 concerns a payment made with 4902-5334-2817-4000.
+Invoice 83665 was disputed by Lisa Gallagher, who asked for written confirmation at lisa.gallagher@pioneervalleytech.com.
+Order 95432 placed by Garrett Snyder was charged to card 4813-7969-3921-7766.

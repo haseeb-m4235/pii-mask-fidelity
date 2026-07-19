@@ -1,0 +1,572 @@
+{
+  "1": {
+    "What is the email address of the person who opened ticket 21919?": {
+      "expected_mask": "[PII_5]",
+      "mode": "prose",
+      "pii_type": "email"
+    },
+    "Send an email to the preferred contact email address of lead LEAD-96837.": {
+      "expected_mask": "[PII_62]",
+      "mode": "tool_call",
+      "tool": "send_email",
+      "pii_type": "email"
+    },
+    "What is the direct phone line of the account manager covering account ACC-69773?": {
+      "expected_mask": "[PII_47]",
+      "mode": "prose",
+      "pii_type": "phone"
+    },
+    "Call the phone number where the on-call engineer was paged during incident INC-48996.": {
+      "expected_mask": "[PII_33]",
+      "mode": "tool_call",
+      "tool": "call_customer",
+      "pii_type": "phone"
+    },
+    "What is the static IP address assigned to server SRV-20512?": {
+      "expected_mask": "[PII_21]",
+      "mode": "prose",
+      "pii_type": "ip"
+    },
+    "Block the IP address the suspicious scan in case 72453 was traced back to.": {
+      "expected_mask": "[PII_35]",
+      "mode": "tool_call",
+      "tool": "block_ip",
+      "pii_type": "ip"
+    },
+    "What is the credit card number on refund request 50414?": {
+      "expected_mask": "[PII_89]",
+      "mode": "prose",
+      "pii_type": "credit_card"
+    },
+    "Process a charge on the credit card number that was declined on subscription renewal 77108.": {
+      "expected_mask": "[PII_90]",
+      "mode": "tool_call",
+      "tool": "charge_card",
+      "pii_type": "credit_card"
+    },
+    "What is the SSN used to complete identity verification for case 23521?": {
+      "expected_mask": "[PII_61]",
+      "mode": "prose",
+      "pii_type": "ssn"
+    },
+    "Verify the identity associated with the SSN used to complete identity verification for case 78354.": {
+      "expected_mask": "[PII_64]",
+      "mode": "tool_call",
+      "tool": "verify_identity",
+      "pii_type": "ssn"
+    }
+  },
+  "2": {
+    "What is the email address the renewal reminder for contract 34085 should go to?": {
+      "expected_mask": "[PII_158]",
+      "mode": "prose",
+      "pii_type": "email"
+    },
+    "Send an email to the email address the renewal reminder for contract 57730 should go to.": {
+      "expected_mask": "[PII_160]",
+      "mode": "tool_call",
+      "tool": "send_email",
+      "pii_type": "email"
+    },
+    "What is the phone number of the customer who reported outage ticket 20625?": {
+      "expected_mask": "[PII_113]",
+      "mode": "prose",
+      "pii_type": "phone"
+    },
+    "Call the phone number for the callback requested on ticket 55255.": {
+      "expected_mask": "[PII_119]",
+      "mode": "tool_call",
+      "tool": "call_customer",
+      "pii_type": "phone"
+    },
+    "What is the IP address flagged as anomalous in firewall audit 9281?": {
+      "expected_mask": "[PII_121]",
+      "mode": "prose",
+      "pii_type": "ip"
+    },
+    "Block the IP address flagged as anomalous in firewall audit 73730.": {
+      "expected_mask": "[PII_134]",
+      "mode": "tool_call",
+      "tool": "block_ip",
+      "pii_type": "ip"
+    },
+    "What is the credit card number kept on file under profile 34301?": {
+      "expected_mask": "[PII_172]",
+      "mode": "prose",
+      "pii_type": "credit_card"
+    },
+    "Process a charge on the credit card number on refund request 76133.": {
+      "expected_mask": "[PII_199]",
+      "mode": "tool_call",
+      "tool": "charge_card",
+      "pii_type": "credit_card"
+    },
+    "What is the SSN used in background screening 9765?": {
+      "expected_mask": "[PII_151]",
+      "mode": "prose",
+      "pii_type": "ssn"
+    },
+    "Verify the identity associated with the SSN listed on the W-9 form numbered 8719.": {
+      "expected_mask": "[PII_178]",
+      "mode": "tool_call",
+      "tool": "verify_identity",
+      "pii_type": "ssn"
+    }
+  },
+  "3": {
+    "What is the email address of the person who opened ticket 34838?": {
+      "expected_mask": "[PII_207]",
+      "mode": "prose",
+      "pii_type": "email"
+    },
+    "Send an email to the email address of the person who opened ticket 47955.": {
+      "expected_mask": "[PII_204]",
+      "mode": "tool_call",
+      "tool": "send_email",
+      "pii_type": "email"
+    },
+    "What is the phone number where the on-call engineer was paged during incident INC-61423?": {
+      "expected_mask": "[PII_240]",
+      "mode": "prose",
+      "pii_type": "phone"
+    },
+    "Call the phone number where the on-call engineer was paged during incident INC-64175.": {
+      "expected_mask": "[PII_229]",
+      "mode": "tool_call",
+      "tool": "call_customer",
+      "pii_type": "phone"
+    },
+    "What is the gateway IP address mentioned in ticket 3912?": {
+      "expected_mask": "[PII_210]",
+      "mode": "prose",
+      "pii_type": "ip"
+    },
+    "Block the gateway IP address mentioned in ticket 80342.": {
+      "expected_mask": "[PII_219]",
+      "mode": "tool_call",
+      "tool": "block_ip",
+      "pii_type": "ip"
+    },
+    "What is the credit card number involved in chargeback case 72297?": {
+      "expected_mask": "[PII_276]",
+      "mode": "prose",
+      "pii_type": "credit_card"
+    },
+    "Process a charge on the credit card number kept on file under profile 38538.": {
+      "expected_mask": "[PII_268]",
+      "mode": "tool_call",
+      "tool": "charge_card",
+      "pii_type": "credit_card"
+    },
+    "What is the SSN used to complete identity verification for case 1736?": {
+      "expected_mask": "[PII_253]",
+      "mode": "prose",
+      "pii_type": "ssn"
+    },
+    "Verify the identity associated with the SSN listed on the W-9 form numbered 14211.": {
+      "expected_mask": "[PII_295]",
+      "mode": "tool_call",
+      "tool": "verify_identity",
+      "pii_type": "ssn"
+    }
+  },
+  "4": {
+    "What is the email address the post-incident report for INC-29128 was submitted from?": {
+      "expected_mask": "[PII_324]",
+      "mode": "prose",
+      "pii_type": "email"
+    },
+    "Send an email to the preferred contact email address of lead LEAD-11126.": {
+      "expected_mask": "[PII_368]",
+      "mode": "tool_call",
+      "tool": "send_email",
+      "pii_type": "email"
+    },
+    "What is the phone number for the callback requested on ticket 3804?": {
+      "expected_mask": "[PII_315]",
+      "mode": "prose",
+      "pii_type": "phone"
+    },
+    "Call the direct phone line of the account manager covering account ACC-70303.": {
+      "expected_mask": "[PII_356]",
+      "mode": "tool_call",
+      "tool": "call_customer",
+      "pii_type": "phone"
+    },
+    "What is the IP address flagged as anomalous in firewall audit 65786?": {
+      "expected_mask": "[PII_328]",
+      "mode": "prose",
+      "pii_type": "ip"
+    },
+    "Block the static IP address assigned to server SRV-6532.": {
+      "expected_mask": "[PII_327]",
+      "mode": "tool_call",
+      "tool": "block_ip",
+      "pii_type": "ip"
+    },
+    "What is the credit card number involved in chargeback case 13164?": {
+      "expected_mask": "[PII_390]",
+      "mode": "prose",
+      "pii_type": "credit_card"
+    },
+    "Process a charge on the credit card number kept on file under profile 71308.": {
+      "expected_mask": "[PII_353]",
+      "mode": "tool_call",
+      "tool": "charge_card",
+      "pii_type": "credit_card"
+    },
+    "What is the SSN referenced in credit check 54549?": {
+      "expected_mask": "[PII_361]",
+      "mode": "prose",
+      "pii_type": "ssn"
+    },
+    "Verify the identity associated with the SSN used to complete identity verification for case 97630.": {
+      "expected_mask": "[PII_367]",
+      "mode": "tool_call",
+      "tool": "verify_identity",
+      "pii_type": "ssn"
+    }
+  },
+  "5": {
+    "What is the email address the post-incident report for INC-64274 was submitted from?": {
+      "expected_mask": "[PII_436]",
+      "mode": "prose",
+      "pii_type": "email"
+    },
+    "Send an email to the email address the post-incident report for INC-27551 was submitted from.": {
+      "expected_mask": "[PII_426]",
+      "mode": "tool_call",
+      "tool": "send_email",
+      "pii_type": "email"
+    },
+    "What is the phone number of the customer who reported outage ticket 8449?": {
+      "expected_mask": "[PII_401]",
+      "mode": "prose",
+      "pii_type": "phone"
+    },
+    "Call the phone number for the callback requested on ticket 27388.": {
+      "expected_mask": "[PII_408]",
+      "mode": "tool_call",
+      "tool": "call_customer",
+      "pii_type": "phone"
+    },
+    "What is the IP address the suspicious scan in case 25629 was traced back to?": {
+      "expected_mask": "[PII_438]",
+      "mode": "prose",
+      "pii_type": "ip"
+    },
+    "Block the static IP address assigned to server SRV-51953.": {
+      "expected_mask": "[PII_437]",
+      "mode": "tool_call",
+      "tool": "block_ip",
+      "pii_type": "ip"
+    },
+    "What is the credit card number charged for order 91890?": {
+      "expected_mask": "[PII_481]",
+      "mode": "prose",
+      "pii_type": "credit_card"
+    },
+    "Process a charge on the credit card number on refund request 80693.": {
+      "expected_mask": "[PII_495]",
+      "mode": "tool_call",
+      "tool": "charge_card",
+      "pii_type": "credit_card"
+    },
+    "What is the SSN used in background screening 97197?": {
+      "expected_mask": "[PII_445]",
+      "mode": "prose",
+      "pii_type": "ssn"
+    },
+    "Verify the identity associated with the SSN recorded on benefits enrollment 46448.": {
+      "expected_mask": "[PII_420]",
+      "mode": "tool_call",
+      "tool": "verify_identity",
+      "pii_type": "ssn"
+    }
+  },
+  "6": {
+    "What is the email address the post-incident report for INC-34423 was submitted from?": {
+      "expected_mask": "[PII_530]",
+      "mode": "prose",
+      "pii_type": "email"
+    },
+    "Send an email to the preferred contact email address of lead LEAD-96615.": {
+      "expected_mask": "[PII_567]",
+      "mode": "tool_call",
+      "tool": "send_email",
+      "pii_type": "email"
+    },
+    "What is the phone number for the callback requested on ticket 12682?": {
+      "expected_mask": "[PII_509]",
+      "mode": "prose",
+      "pii_type": "phone"
+    },
+    "Call the phone number where the on-call engineer was paged during incident INC-89639.": {
+      "expected_mask": "[PII_535]",
+      "mode": "tool_call",
+      "tool": "call_customer",
+      "pii_type": "phone"
+    },
+    "What is the IP address flagged as anomalous in firewall audit 86903?": {
+      "expected_mask": "[PII_539]",
+      "mode": "prose",
+      "pii_type": "ip"
+    },
+    "Block the IP address the suspicious scan in case 45197 was traced back to.": {
+      "expected_mask": "[PII_523]",
+      "mode": "tool_call",
+      "tool": "block_ip",
+      "pii_type": "ip"
+    },
+    "What is the credit card number that was declined on subscription renewal 86287?": {
+      "expected_mask": "[PII_593]",
+      "mode": "prose",
+      "pii_type": "credit_card"
+    },
+    "Process a charge on the credit card number involved in chargeback case 82908.": {
+      "expected_mask": "[PII_581]",
+      "mode": "tool_call",
+      "tool": "charge_card",
+      "pii_type": "credit_card"
+    },
+    "What is the SSN listed on the W-9 form numbered 58121?": {
+      "expected_mask": "[PII_596]",
+      "mode": "prose",
+      "pii_type": "ssn"
+    },
+    "Verify the identity associated with the SSN listed on the W-9 form numbered 83579.": {
+      "expected_mask": "[PII_595]",
+      "mode": "tool_call",
+      "tool": "verify_identity",
+      "pii_type": "ssn"
+    }
+  },
+  "7": {
+    "What is the email address of the person who opened ticket 31728?": {
+      "expected_mask": "[PII_608]",
+      "mode": "prose",
+      "pii_type": "email"
+    },
+    "Send an email to the email address the post-incident report for INC-68560 was submitted from.": {
+      "expected_mask": "[PII_640]",
+      "mode": "tool_call",
+      "tool": "send_email",
+      "pii_type": "email"
+    },
+    "What is the phone number of the customer who reported outage ticket 46229?": {
+      "expected_mask": "[PII_602]",
+      "mode": "prose",
+      "pii_type": "phone"
+    },
+    "Call the phone number for the callback requested on ticket 68654.": {
+      "expected_mask": "[PII_613]",
+      "mode": "tool_call",
+      "tool": "call_customer",
+      "pii_type": "phone"
+    },
+    "What is the IP address flagged as anomalous in firewall audit 91083?": {
+      "expected_mask": "[PII_630]",
+      "mode": "prose",
+      "pii_type": "ip"
+    },
+    "Block the IP address the suspicious scan in case 3761 was traced back to.": {
+      "expected_mask": "[PII_623]",
+      "mode": "tool_call",
+      "tool": "block_ip",
+      "pii_type": "ip"
+    },
+    "What is the credit card number involved in chargeback case 17882?": {
+      "expected_mask": "[PII_695]",
+      "mode": "prose",
+      "pii_type": "credit_card"
+    },
+    "Process a charge on the credit card number that was declined on subscription renewal 52786.": {
+      "expected_mask": "[PII_680]",
+      "mode": "tool_call",
+      "tool": "charge_card",
+      "pii_type": "credit_card"
+    },
+    "What is the SSN recorded on benefits enrollment 87003?": {
+      "expected_mask": "[PII_615]",
+      "mode": "prose",
+      "pii_type": "ssn"
+    },
+    "Verify the identity associated with the SSN used in background screening 10763.": {
+      "expected_mask": "[PII_653]",
+      "mode": "tool_call",
+      "tool": "verify_identity",
+      "pii_type": "ssn"
+    }
+  },
+  "8": {
+    "What is the email address of the person who opened ticket 24029?": {
+      "expected_mask": "[PII_713]",
+      "mode": "prose",
+      "pii_type": "email"
+    },
+    "Send an email to the email address where written confirmation for the invoice 19646 dispute was requested.": {
+      "expected_mask": "[PII_777]",
+      "mode": "tool_call",
+      "tool": "send_email",
+      "pii_type": "email"
+    },
+    "What is the phone number of the customer who reported outage ticket 74171?": {
+      "expected_mask": "[PII_707]",
+      "mode": "prose",
+      "pii_type": "phone"
+    },
+    "Call the phone number of the customer who reported outage ticket 61321.": {
+      "expected_mask": "[PII_715]",
+      "mode": "tool_call",
+      "tool": "call_customer",
+      "pii_type": "phone"
+    },
+    "What is the gateway IP address mentioned in ticket 56055?": {
+      "expected_mask": "[PII_710]",
+      "mode": "prose",
+      "pii_type": "ip"
+    },
+    "Block the IP address the failed login attempts in incident INC-61165 originated from.": {
+      "expected_mask": "[PII_733]",
+      "mode": "tool_call",
+      "tool": "block_ip",
+      "pii_type": "ip"
+    },
+    "What is the credit card number involved in chargeback case 56305?": {
+      "expected_mask": "[PII_785]",
+      "mode": "prose",
+      "pii_type": "credit_card"
+    },
+    "Process a charge on the credit card number that was declined on subscription renewal 1170.": {
+      "expected_mask": "[PII_779]",
+      "mode": "tool_call",
+      "tool": "charge_card",
+      "pii_type": "credit_card"
+    },
+    "What is the SSN used in background screening 38403?": {
+      "expected_mask": "[PII_768]",
+      "mode": "prose",
+      "pii_type": "ssn"
+    },
+    "Verify the identity associated with the SSN listed on the W-9 form numbered 76670.": {
+      "expected_mask": "[PII_783]",
+      "mode": "tool_call",
+      "tool": "verify_identity",
+      "pii_type": "ssn"
+    }
+  },
+  "9": {
+    "What is the email address of the person who opened ticket 56764?": {
+      "expected_mask": "[PII_808]",
+      "mode": "prose",
+      "pii_type": "email"
+    },
+    "Send an email to the preferred contact email address of lead LEAD-85086.": {
+      "expected_mask": "[PII_845]",
+      "mode": "tool_call",
+      "tool": "send_email",
+      "pii_type": "email"
+    },
+    "What is the phone number for the callback requested on ticket 81593?": {
+      "expected_mask": "[PII_818]",
+      "mode": "prose",
+      "pii_type": "phone"
+    },
+    "Call the phone number where the on-call engineer was paged during incident INC-19657.": {
+      "expected_mask": "[PII_840]",
+      "mode": "tool_call",
+      "tool": "call_customer",
+      "pii_type": "phone"
+    },
+    "What is the static IP address assigned to server SRV-10274?": {
+      "expected_mask": "[PII_835]",
+      "mode": "prose",
+      "pii_type": "ip"
+    },
+    "Block the gateway IP address mentioned in ticket 32127.": {
+      "expected_mask": "[PII_810]",
+      "mode": "tool_call",
+      "tool": "block_ip",
+      "pii_type": "ip"
+    },
+    "What is the credit card number that was declined on subscription renewal 33352?": {
+      "expected_mask": "[PII_878]",
+      "mode": "prose",
+      "pii_type": "credit_card"
+    },
+    "Process a charge on the credit card number that was declined on subscription renewal 56018.": {
+      "expected_mask": "[PII_873]",
+      "mode": "tool_call",
+      "tool": "charge_card",
+      "pii_type": "credit_card"
+    },
+    "What is the SSN used in background screening 84797?": {
+      "expected_mask": "[PII_865]",
+      "mode": "prose",
+      "pii_type": "ssn"
+    },
+    "Verify the identity associated with the SSN listed on the W-9 form numbered 91908.": {
+      "expected_mask": "[PII_887]",
+      "mode": "tool_call",
+      "tool": "verify_identity",
+      "pii_type": "ssn"
+    }
+  },
+  "10": {
+    "What is the email address of the person who opened ticket 14112?": {
+      "expected_mask": "[PII_901]",
+      "mode": "prose",
+      "pii_type": "email"
+    },
+    "Send an email to the preferred contact email address of lead LEAD-18058.": {
+      "expected_mask": "[PII_953]",
+      "mode": "tool_call",
+      "tool": "send_email",
+      "pii_type": "email"
+    },
+    "What is the phone number for the callback requested on ticket 29302?": {
+      "expected_mask": "[PII_919]",
+      "mode": "prose",
+      "pii_type": "phone"
+    },
+    "Call the phone number for the callback requested on ticket 98015.": {
+      "expected_mask": "[PII_906]",
+      "mode": "tool_call",
+      "tool": "call_customer",
+      "pii_type": "phone"
+    },
+    "What is the gateway IP address mentioned in ticket 82296?": {
+      "expected_mask": "[PII_909]",
+      "mode": "prose",
+      "pii_type": "ip"
+    },
+    "Block the gateway IP address mentioned in ticket 98557.": {
+      "expected_mask": "[PII_907]",
+      "mode": "tool_call",
+      "tool": "block_ip",
+      "pii_type": "ip"
+    },
+    "What is the credit card number kept on file under profile 60872?": {
+      "expected_mask": "[PII_961]",
+      "mode": "prose",
+      "pii_type": "credit_card"
+    },
+    "Process a charge on the credit card number involved in chargeback case 85085.": {
+      "expected_mask": "[PII_979]",
+      "mode": "tool_call",
+      "tool": "charge_card",
+      "pii_type": "credit_card"
+    },
+    "What is the SSN recorded on benefits enrollment 4599?": {
+      "expected_mask": "[PII_920]",
+      "mode": "prose",
+      "pii_type": "ssn"
+    },
+    "Verify the identity associated with the SSN listed on the W-9 form numbered 62049.": {
+      "expected_mask": "[PII_973]",
+      "mode": "tool_call",
+      "tool": "verify_identity",
+      "pii_type": "ssn"
+    }
+  }
+}
