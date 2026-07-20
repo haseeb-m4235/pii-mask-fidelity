@@ -26,6 +26,8 @@ scrubbed_docs/    doc_1.txt .. doc_5.txt          masked copies fed to the model
   scrubbed_keys/  doc_1.json .. doc_5.json        mask -> real value mapping per doc
 prompts/          doc_1.json .. doc_5.json        questions per page with expected masks
 scripts/          run_experiment.py               the experiment runner
+                  config.py                       run settings (models, docs, pages, ...)
+                  constants.py                    paths, system prompt, tools, mask regexes
 results/          raw/*.jsonl, summary.csv        created by the runner
 ```
 
@@ -39,47 +41,48 @@ export ANTHROPIC_API_KEY=sk-ant-...
 
 ## Running the experiment
 
-Always preview a run first; `--dry-run` prints the resolved plan and exits without spending anything:
-
-```bash
-.venv/bin/python scripts/run_experiment.py --dry-run
-```
-
-Smoke test (5 questions against Haiku, effectively free):
-
-```bash
-.venv/bin/python scripts/run_experiment.py --models haiku --docs 1 --pages 1 --limit 5
-```
-
-Pilot run (2 documents, page counts 1-5, both cheaper models):
-
-```bash
-.venv/bin/python scripts/run_experiment.py --models haiku sonnet --num-docs 2 --max-pages 5
-```
-
-Full sweep (3 models x 5 docs x page counts 1-10 = 8250 calls):
+The runner takes no command-line arguments.
+Every run setting is a constant in `scripts/config.py`, with its use cases documented inline; edit that file, then start the run:
 
 ```bash
 .venv/bin/python scripts/run_experiment.py
 ```
 
-Flags:
+With the default configuration this is the full sweep (3 models x 5 docs x page counts 1-10 = 8250 calls).
+Invalid settings (unknown documents, out-of-range page counts, or setting both options of a mutually exclusive pair) exit with an error before any API call.
 
-| Flag | Meaning |
+Smoke test (5 questions against Haiku, effectively free):
+
+```python
+MODELS = ["haiku"]
+DOCS = [1]
+PAGES = [1]
+LIMIT = 5
+```
+
+Pilot run (2 documents, page counts 1-5, both cheaper models):
+
+```python
+MODELS = ["haiku", "sonnet"]
+NUM_DOCS = 2
+MAX_PAGES = 5
+```
+
+Settings:
+
+| Setting | Meaning |
 |---|---|
-| `--models` | Full model ids or shorthands `haiku`, `sonnet`, `opus` (default: all three). |
-| `--num-docs N` | Run the first N documents. |
-| `--docs 1 3` | Or pick explicit document numbers. |
-| `--max-pages K` | Run every page count from 1 to K. |
-| `--pages 1 5 10` | Or pick explicit page counts (context = pages 1..K). |
-| `--limit N` | Only the first N questions per cell, for testing. |
-| `--concurrency` | Parallel requests per cell (default 8). |
-| `--overwrite` | Re-run cells whose raw output file already exists. |
-| `--dry-run` | Print the plan and exit. |
+| `MODELS` | Full model ids or shorthands `haiku`, `sonnet`, `opus` (default: all three). |
+| `DOCS` / `NUM_DOCS` | Explicit document numbers, or the first N documents. Set at most one; both `None` runs all documents. |
+| `PAGES` / `MAX_PAGES` | Explicit page counts (context = pages 1..K), or every page count from 1 to K. Set at most one; both `None` runs 1-10. |
+| `LIMIT` | Only the first N questions per cell, for testing (0 = all). |
+| `CONCURRENCY` | Parallel requests per cell (default 8). |
+| `OVERWRITE` | Re-run cells whose raw output file already exists. |
 
 How a run works: for every (model, document, page count) cell, the system prompt contains a fixed instruction plus pages 1..K of the scrubbed document, and every eligible question is sent as its own fresh single-turn conversation.
 The system prompt is served through Anthropic prompt caching (one cache write per cell, then cheap reads), which cuts input cost by roughly 90%.
-Completed cells are skipped on re-runs unless `--overwrite` is passed, so an interrupted sweep resumes for free.
+Progress is shown as a single tqdm bar over every question in the run, with the current cell name as a postfix; the only printed output is the end-of-run summary (output locations plus an accuracy table by model and page count).
+Completed cells are skipped on re-runs unless `OVERWRITE = True`, so an interrupted sweep resumes for free.
 
 ## Scoring
 
